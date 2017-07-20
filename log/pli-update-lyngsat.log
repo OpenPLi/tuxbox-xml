@@ -1,2 +1,2 @@
-pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
+/openpli/bin/pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
 git commit -m satellites.xml update from lyngsat -a
