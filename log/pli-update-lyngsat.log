@@ -1,2 +1,2 @@
-bouwserver2 %n:%~ 4> pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
-bouwserver2 %n:%~ 4> git commit -m satellites.xml update from lyngsat -a
+pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
+git commit -m satellites.xml update from lyngsat -a
