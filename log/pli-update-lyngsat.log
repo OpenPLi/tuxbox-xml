@@ -1,3 +1,4 @@
 git checkout xml/satellites.xml
-/openpli/bin/pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
-git commit -m satellites.xml update from lyngsat -a
+git pull -v --rebase
+From github.com:OpenPLi/tuxbox-xml
+   17190a0..acc1701  master     -> origin/master
