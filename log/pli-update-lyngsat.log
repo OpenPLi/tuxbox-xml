@@ -2,6 +2,3 @@ git checkout xml/satellites.xml
 git pull -v --rebase
 From github.com:OpenPLi/tuxbox-xml
  = [up to date]      master     -> origin/master
-Current branch master is up to date.
-/openpli/bin/pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
-git commit -m satellites.xml update from lyngsat -a
