@@ -3431,7 +3431,6 @@ Skip feed:<tr><td bgcolor="#d0d0d0"><font face="Arial"><font size=2 color="gray"
 Skip feed:<tr><td bgcolor="#d0d0d0"><font face="Arial"><font size=2 color="gray"><b>(Fox Sports feeds)</b></td><td bgcolor="#d0d0d0"><br></td><td bgcolor="#d0d0d0"><font face="Verdana"><font size=1>MPEG-2/HD<br></td><td bgcolor="#d0d0d0" colspan=2><font face="Verdana" size=1><font color="darkgreen">&nbsp;&nbsp;&nbsp;&nbsp;4</font></td><td bgcolor="#d0d0d0"><font face="Verdana" size=1>&nbsp;<br></td><td></td>
 Doing AMC 10
 Doing AMC 8
-Doing RCTI
 Generating asia_europe_atlantic_america.satellites.xml
 Processing satellite: 3.0E Eutelsat 3B..Rascom QAF 1R Ku Band
 Found 40 items
@@ -3546,8 +3545,8 @@ Standard transponder: 12073, 27500, 1, 3/4, 8PSK, 2
 Standard transponder: 12092, 30000, 1, 2/3, 8PSK, 2
 Standard transponder: 12130, 27500, 1, 3/4, 0, 1
 Standard transponder: 12149, 27500, 1, 3/4, 0, 1
-Multistream PLP transponder: 12188, 30000, 1, 5/6, 8PSK, 2, 20
-Multistream PLP transponder: 12188, 30000, 1, 5/6, 8PSK, 2, 10
+Multistream PLS transponder: 12188, 30000, 1, 5/6, 8PSK, 2, 20
+Multistream PLS transponder: 12188, 30000, 1, 5/6, 8PSK, 2, 10
 Standard transponder: 12207, 30000, 1, 2/3, 8PSK, 2
 Standard transponder: 12245, 27500, 1, 3/4, 0, 1
 Standard transponder: 12265, 30000, 1, 3/4, 0, 1
@@ -3556,8 +3555,8 @@ Standard transponder: 12284, 27500, 1, 3/4, 0, 1
 Standard transponder: 12303, 25546, 1, 7/8, 0, 1
 Standard transponder: 12303, 27500, 1, 3/4, 8PSK, 2
 Standard transponder: 12322, 27500, 1, 5/6, 8PSK, 2
-Multistream PLP transponder: 12341, 30000, 1, 3/4, 8PSK, 2, 40
-Multistream PLP transponder: 12341, 30000, 1, 3/4, 8PSK, 2, 30
+Multistream PLS transponder: 12341, 30000, 1, 3/4, 8PSK, 2, 40
+Multistream PLS transponder: 12341, 30000, 1, 3/4, 8PSK, 2, 30
 Standard transponder: 12341, 27500, 1, 3/4, 8PSK, 2
 Standard transponder: 12360, 27500, 1, 5/6, 8PSK, 2
 Standard transponder: 12380, 27500, 1, 3/4, 0, 1
@@ -3700,8 +3699,8 @@ Found 1 items
 Standard transponder: 20185, 25000, 1, 2/3, QPSK, 1
 Processing satellite: 10.0E Eutelsat 10A Ku Band
 Found 26 items
-Multistream PLP transponder: 10747, 4000, 1, 9/10, 8PSK, 2, 171
-Multistream PLP transponder: 10747, 4000, 1, 9/10, 8PSK, 2, 172
+Multistream PLS transponder: 10747, 4000, 1, 9/10, 8PSK, 2, 171
+Multistream PLS transponder: 10747, 4000, 1, 9/10, 8PSK, 2, 172
 Standard transponder: 10756, 2480, 1, 7/8, 0, 1
 Standard transponder: 10836, 3000, 1, 3/4, 8PSK, 2
 Standard transponder: 10840, 3255, 1, 1/2, 0, 1
@@ -4669,7 +4668,7 @@ Processing satellite: 42.5E NigComSat 1R Ka Band
 Processing satellite: 45.0E Intelsat 12/904
 Found 13 items
 Standard transponder: 11155, 45000, 1, 2/3, 8PSK, 2
-Standard transponder: 11475, 26666, 1, 3/5, QPSK, 1
+Multistream PLS transponder: 11475, 26666, 1, 3/5, QPSK, 1, root, 218997, 1
 Standard transponder: 11495, 45000, 1, 2/3, 8PSK, 2
 Standard transponder: 11513, 30000, 1, 2/3, 8PSK, 2
 Standard transponder: 11555, 30000, 1, 3/4, 8PSK, 2
@@ -6563,10 +6562,10 @@ Processing satellite: 166.0E Intelsat 19 Ku Band
 Found 10 items
 Standard transponder: 12286, 30000, 1, 3/4, 0, 1
 Standard transponder: 12526, 30000, 1, 3/4, 8PSK, 2
-Multistream PLP transponder: 12569, 26809, 1, 8/9, 0, 1, 164
-Multistream PLP transponder: 12569, 26809, 1, 8/9, 0, 1, 163
-Multistream PLP transponder: 12569, 26809, 1, 8/9, 0, 1, 162
-Multistream PLP transponder: 12569, 26809, 1, 8/9, 0, 1, 161
+Multistream PLS transponder: 12569, 26809, 1, 8/9, 0, 1, 164
+Multistream PLS transponder: 12569, 26809, 1, 8/9, 0, 1, 163
+Multistream PLS transponder: 12569, 26809, 1, 8/9, 0, 1, 162
+Multistream PLS transponder: 12569, 26809, 1, 8/9, 0, 1, 161
 Standard transponder: 12613, 2222, 1, 1/2, 0, 1
 Standard transponder: 12646, 28066, 1, 3/4, 0, 1
 Standard transponder: 12686, 28124, 1, 3/4, 0, 1
@@ -6964,11 +6963,11 @@ Standard transponder: 3859, 1041, 1, 2/3, 8PSK, 2
 Standard transponder: 3957, 6200, 1, 2/3, 8PSK, 2
 Standard transponder: 4025, 1457, 1, ?, 8PSK, 2
 Standard transponder: 4135, 30000, 1, 3/4, 8PSK, 2
-Multistream PLP transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
-Multistream PLP transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
-Multistream PLP transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
-Multistream PLP transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 2
-Multistream PLP transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 1
+Multistream PLS transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
+Multistream PLS transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
+Multistream PLS transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 3
+Multistream PLS transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 2
+Multistream PLS transponder: 4153, 60000, 1, 3/4, 8PSK, 2, 1
 Standard transponder: 4171, 30000, 1, 3/4, 8PSK, 2
 Processing satellite: 8.0W Eutelsat 8 West B S Band
 Processing satellite: 8.0W Eutelsat 8 West B L Band
@@ -6994,10 +6993,10 @@ Standard transponder: 12556, 8210, 1, 2/3, 8PSK, 2
 Standard transponder: 12577, 2222, 1, 5/6, QPSK, 1
 Standard transponder: 12595, 1875, 1, 5/6, 8PSK, 2
 Standard transponder: 12638, 13980, 1, 3/5, 8PSK, 2
-Multistream PLP transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 36
-Multistream PLP transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 35
-Multistream PLP transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 34
-Multistream PLP transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 33
+Multistream PLS transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 36
+Multistream PLS transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 35
+Multistream PLS transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 34
+Multistream PLS transponder: 12718, 36510, 1, 5/6, 8PSK, 2, 33
 Processing satellite: 12.5W Eutelsat 12 West B C Band
 Processing satellite: 12.5W Eutelsat 12 West B S Band
 Processing satellite: 12.5W Eutelsat 12 West B L Band
@@ -7145,7 +7144,7 @@ Standard transponder: 11262, 30000, 1, 3/4, 8PSK, 2
 Standard transponder: 11302, 30000, 1, 3/4, 8PSK, 2
 Standard transponder: 11382, 30000, 1, 3/4, 8PSK, 2
 Standard transponder: 11422, 5000, 1, 5/6, 0, 1
-Standard transponder: 11491, 7522, 1, 8/9, 8PSK, 2
+Multistream PLS transponder: 11491, 7522, 1, 8/9, 8PSK, 2, combo, 2388, 1
 Standard transponder: 11503, 1667, 1, 9/10, QPSK, 1
 Standard transponder: 11510, 10000, 1, 3/4, 0, 1
 Standard transponder: 11721, 30000, 1, 5/6, 8PSK, 2
