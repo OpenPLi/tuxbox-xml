@@ -625,17 +625,26 @@
 		<transponder centre_frequency="834000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Rhein-Main (Europe DVB-T/T2)" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" />
 		<transponder centre_frequency="482000000" bandwidth="0" />
 		<transponder centre_frequency="578000000" bandwidth="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" />
 		<transponder centre_frequency="738000000" bandwidth="0" />
-		<transponder centre_frequency="762000000" bandwidth="0" />
-		<transponder centre_frequency="818000000" bandwidth="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Heidelberg/BadenBaden/Donnersberg/Pforzheim (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" />
 		<transponder centre_frequency="698000000" bandwidth="0" />
 		<transponder centre_frequency="786000000" bandwidth="0" />
+	</terrestrial>
+	<terrestrial name="Stuttgart-Frauenkopf (Europe DVB-T/T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="474000000" bandwidth="0" />
+		<transponder centre_frequency="498000000" bandwidth="0" />
+		<transponder centre_frequency="522000000" bandwidth="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" />
+		<transponder centre_frequency="666000000" bandwidth="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Copenhagen (Europe DVB-T/T2)" flags="5" countrycode="DNK">
 		<transponder centre_frequency="213000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -1364,7 +1373,7 @@
 		<transponder centre_frequency="858166000" bandwidth="0" constellation="3" />
 	</terrestrial>
 	<terrestrial name="United Kingdom, all regions (Europe DVB-T/T2)" flags="5" countrycode="GBR">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 21 plus -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 21 -->
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 22 -->
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 23 -->
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 24 -->
@@ -1380,7 +1389,7 @@
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 34 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 35 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 39 plus -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 39 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 40 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 41 -->
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 42 -->
@@ -1436,6 +1445,17 @@
 		<transponder centre_frequency="546000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 30 (HD) -->
 		<transponder centre_frequency="562000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 32 (HD) -->
 		<transponder centre_frequency="586000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 35 (HD) -->
+	</terrestrial>
+	<terrestrial name="Craigkelly, Fife (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+		<transponder centre_frequency="474000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 21 (HD) -->
+		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 24 -->
+		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 27 -->
+		<transponder centre_frequency="546000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 30 -->
+		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 33 (HD) -->
+		<transponder centre_frequency="578000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 34 (HD) -->
+		<transponder centre_frequency="618000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 39 -->
+		<transponder centre_frequency="642000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 45 -->
 	</terrestrial>
 	<terrestrial name="Crystal Palace, London (Europe DVB-T/T2)" flags="5" countrycode="GBR">
 		<transponder centre_frequency="482000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 22 -->
