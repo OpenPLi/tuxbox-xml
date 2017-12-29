@@ -1,4 +1,4 @@
 git checkout xml/satellites.xml
 git pull -v --rebase
 From github.com:OpenPLi/tuxbox-xml
-   020a33b..4f6729c  master     -> origin/master
+ = [up to date]      master     -> origin/master
