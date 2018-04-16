@@ -1,4 +1,8 @@
 git checkout xml/satellites.xml
 git pull -v --rebase
-From github.com:OpenPLi/tuxbox-xml
- = [up to date]      master     -> origin/master
+error: Cannot pull with rebase: You have unstaged changes.
+true
+/openpli/bin/pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
+[ -s xml/satellites.xml ]
+break
+git commit -m satellites.xml update from lyngsat -a
