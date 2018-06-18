@@ -1,4 +1,3 @@
-git checkout xml/satellites.xml
 git pull -v --rebase
 error: Cannot pull with rebase: You have unstaged changes.
 true
