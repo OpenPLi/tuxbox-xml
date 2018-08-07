@@ -80,7 +80,7 @@
 
     Please report missing frequencies and pointers to regional standards to
 	https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/terrestrial.xml
-	https://github.com/OpenPLi/OpenPLi-1/tree/master/cdk/cdk/root/share/tuxbox
+	https://github.com/OpenPLi/tuxbox-xml/tree/master/xml
 -->
 
 <locations>
