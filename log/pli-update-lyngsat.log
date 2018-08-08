@@ -1,8 +1,9 @@
-git checkout xml/satellites.xml
 git pull -v --rebase
 error: Cannot pull with rebase: You have unstaged changes.
 true
 /openpli/bin/pli-grab-lyngsat.py --verbose --autofecs1 --skip-feeds --skip-testcards all
 [ -s xml/satellites.xml ]
 break
+git pull
+Already up-to-date.
 git commit -m satellites.xml update from lyngsat -a
