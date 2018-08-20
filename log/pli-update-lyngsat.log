@@ -5,5 +5,10 @@ true
 [ -s xml/satellites.xml ]
 break
 git pull
-Already up-to-date.
+From github.com:OpenPLi/tuxbox-xml
+   a852f0d..43b2583  master     -> origin/master
+Updating a852f0d..43b2583
+Fast-forward
+ xml/terrestrial.xml | 3629 ++++++++++++++++++++++++++-------------------------
+ 1 file changed, 1845 insertions(+), 1784 deletions(-)
 git commit -m satellites.xml update from lyngsat -a
