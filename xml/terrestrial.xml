@@ -565,6 +565,56 @@
 		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0"/><!-- CTC43 @ Brokers Nose -->
 		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0"/><!-- SBS44 @ Brokers Nose -->
 	</terrestrial>
+	<terrestrial name="Austria Region Linz (DVB-T2)" flags="5" countrycode="AUT">
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 24 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 37 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 45 -->
+	</terrestrial>
+	<terrestrial name="Austria (DVB-T2)" flags="5" countrycode="AUT">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 60 -->
+	</terrestrial>
 	<terrestrial name="Ceske Budejovice - Klet (Europe DVB-T/T2)" flags="5" countrycode="CZE">
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH22 -->
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="2" code_rate_lp="2" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH25 -->
@@ -631,6 +681,22 @@
 		<transponder centre_frequency="722000000" bandwidth="0"/>
 		<transponder centre_frequency="746000000" bandwidth="0"/>
 		<transponder centre_frequency="762000000" bandwidth="0"/>
+	</terrestrial>
+	<terrestrial name="Gera (Roschuetz) (Europe DVB-T/T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="506000000" bandwidth="0"/><!-- Ch 25 ARD -->
+		<transponder centre_frequency="522000000" bandwidth="0"/><!-- Ch 27 ARD/Dritte -->
+		<transponder centre_frequency="482000000" bandwidth="0"/><!-- Ch 22 ZDF -->
+		<transponder centre_frequency="650000000" bandwidth="0"/><!-- Ch 43 freenet TV 1 -->
+		<transponder centre_frequency="530000000" bandwidth="0"/><!-- Ch 28 freenet TV 2 -->
+		<transponder centre_frequency="682000000" bandwidth="0"/><!-- Ch 47 freenet TV 3 -->
+	</terrestrial>
+	<terrestrial name="Halle (Stadt) (Europe DVB-T/T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="498000000" bandwidth="0"/><!-- Ch 24 ARD -->
+		<transponder centre_frequency="610000000" bandwidth="0"/><!-- Ch 38 ARD/Dritte -->
+		<transponder centre_frequency="482000000" bandwidth="0"/><!-- Ch 22 ZDF -->
+		<transponder centre_frequency="650000000" bandwidth="0"/><!-- Ch 43 freenet TV 1 -->
+		<transponder centre_frequency="530000000" bandwidth="0"/><!-- Ch 28 freenet TV 2 -->
+		<transponder centre_frequency="514000000" bandwidth="0"/><!-- Ch 26 freenet TV 3 -->
 	</terrestrial>
 	<terrestrial name="Hamburg/Luebeck (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="626000000" bandwidth="0"/>
@@ -2755,45 +2821,242 @@
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
 	</terrestrial>
 	<terrestrial name="Polska (Europe DVB-T/T2)" flags="5" countrycode="POL">
-		<transponder centre_frequency="470000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0"/>
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="212500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3"/>
+		<transponder centre_frequency="470000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Bialystok (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Bydgoszcz (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Ciechanow (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Czestochowa (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Elblag (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Gdansk (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Gizycko (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Ilawa (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Jelenia Gora (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Kalisz (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Katowice (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Kielce (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Koszalin (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Krakow (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Lebork (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Lublin (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Lomza (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Lodz (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Miedzyzdroje (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Olsztyn (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Pila (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Poznan (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Radom (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Siedlce (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Suwalki (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Szczecin (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Warszawa (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Wroclaw (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Zakopane (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Zamosc (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+	</terrestrial>
+	<terrestrial name="Polska, Zielona Gora (Europe DVB-T/T2)" flags="5" countrycode="POL">
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
 	</terrestrial>
 	<terrestrial name="Russia (Europe DVB-T/T2)" flags="5" countrycode="RUS">
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/>
@@ -2849,5 +3112,739 @@
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" plp_id="1" system="0"/>
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" plp_id="1" system="1"/>
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" plp_id="1" system="0"/>
+	</terrestrial>
+	<terrestrial name="Vinnytsia Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Volyn Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Dnipropetrovsk Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Donetsk Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Zhytomyr Oblast (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Transcarpathian Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Zaporozhye Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Ivano-Frankivsk Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Kiev Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Kirovohrad Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Lugansk Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Lviv Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Nikolaevkskaya area (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Odessa Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Poltava Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Rovenskaya Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Sumy Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Ternopil Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Kharkov Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Kherson Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Khmelnitsky Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Kamenez Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="682000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="658000000" bandwidth="1" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="1" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="KCherkasy Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="KChernivtsi Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="KChernihiv Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Andijan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+	</terrestrial>
+	<terrestrial name="Bukhara Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
+	</terrestrial>
+	<terrestrial name="Djizak Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+	</terrestrial>
+	<terrestrial name="Fergana Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+	</terrestrial>
+	<terrestrial name="Karakalpakstan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
+    </terrestrial>
+	<terrestrial name="Kashkadarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
+	</terrestrial>
+	<terrestrial name="Khoresm Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+	</terrestrial>
+	<terrestrial name="Namangan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
+	</terrestrial>
+	<terrestrial name="Navoi Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+	</terrestrial>
+	<terrestrial name="Samarkand Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
+	</terrestrial>
+	<terrestrial name="Surkhandarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
+	</terrestrial>
+	<terrestrial name="Syrdarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+	</terrestrial>
+	<terrestrial name="Tashkent Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
 	</terrestrial>
 </locations>
