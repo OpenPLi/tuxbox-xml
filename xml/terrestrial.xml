@@ -82,6 +82,8 @@
 		8: Skip NITs of known networks
 			This is a bitmap and combinations can be used.
 
+	There is no need to list every mast/area. Only add the ones that have problems with the generic Europe or Country one owing to interference from nearby masts.
+
 	Please report missing frequencies and pointers to regional standards to
 		https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/terrestrial.xml
 		https://github.com/OpenPLi/tuxbox-xml/tree/master/xml
@@ -615,6 +617,63 @@
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 59 -->
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 60 -->
 	</terrestrial>
+	<terrestrial name="Brazil, All Regions. ISDB-T Frequencies" flags="5" countrycode="BRA">
+		<transponder centre_frequency="473000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="479000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="485000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="491000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="497000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="503000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="509000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="515000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="521000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="527000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="533000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="539000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="545000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="551000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="557000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="563000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="569000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="575000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="581000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="587000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="593000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="599000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="605000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="617000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="623000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="629000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="635000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="641000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="647000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="653000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="659000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="665000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="671000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="677000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="683000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="689000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="695000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="701000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="707000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="713000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="719000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="725000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="731000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="737000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="743000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="749000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="755000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="761000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="767000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="773000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="779000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="785000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="791000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="798000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+		<transponder centre_frequency="803000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0"/>
+	</terrestrial>
 	<terrestrial name="Ceske Budejovice - Klet (Europe DVB-T/T2)" flags="5" countrycode="CZE">
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH22 MPX23 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH27 MPX22 -->
@@ -834,491 +893,533 @@
 		<transponder centre_frequency="794000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2"/>
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2"/>
 	</terrestrial>
+	<terrestrial name="All regions, Spain, (Europe DVB-T/T2)" flags="5" countrycode="ESP">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 60 -->
+	</terrestrial>
 	<terrestrial name="Andalucia (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Aragon (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Asturias (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
 	</terrestrial>
 	<terrestrial name="Canarias (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Cantabria (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" /><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" /><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" /><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" /><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" /><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" /><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" /><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" /><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" /><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" /><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" /><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" /><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" /><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" /><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" /><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" /><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" /><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" /><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" /><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" /><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" /><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" /><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" /><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" /><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" /><!-- Ch 52 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" /><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /><!-- Ch 57 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" /><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" /><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 52 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0" /><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Castilla-la Mancha (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Castilla-Leon (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3"/><!-- Ch 60 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Catalunya (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/>
 	</terrestrial>
 	<terrestrial name="Ceuta y Melilla (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Comunidad de Madrid (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Comunidad Valenciana (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3"/><!-- Ch 60 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Euskadi (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Extremadura (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Galiza (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/><!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 49 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="La Rioja (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 25 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
 	</terrestrial>
 	<terrestrial name="Murcia (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3"/><!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3"/><!-- Ch 56 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 39 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 56 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Ses Illes (Europe DVB-T/T2)" flags="5" countrycode="ESP">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3"/><!-- Ch 51 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/><!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3"/><!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/><!-- Ch 55 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 32 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 48 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 51 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" system="0"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Latvia - Kuldīga, Ventspils, Dundaga bezmaksas (Europe DVB-T)" flags="0" countrycode="LVA">
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0"/>
@@ -1844,16 +1945,19 @@
 		<transponder centre_frequency="714000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 51 -->
 	</terrestrial>
 	<terrestrial name="Winter Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR">
-		<transponder centre_frequency="554000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 31 (HD) -->
-		<transponder centre_frequency="602000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 (HD) -->
+		<transponder centre_frequency="474000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
+		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="602000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="698000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 50 -->
 		<transponder centre_frequency="738000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 54 (HD) -->
-		<transponder centre_frequency="746000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 57 -->
+		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 (HD) -->
+		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 56 (HD) -->
 		<transponder centre_frequency="770000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 58 -->
 		<transponder centre_frequency="778000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Greece (Europe DVB-T/T2)" flags="5" countrycode="GRC">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
