@@ -1,4 +1,4 @@
 Traceback (most recent call last):
-  File "/openpli/bin/pli-grab-lyngsat.py", line 11, in <module>
-    import requests
-ImportError: No module named requests
+  File "/openpli/bin/pli-grab-lyngsat.py", line 12, in <module>
+    from bs4 import BeautifulSoup
+ImportError: No module named bs4
