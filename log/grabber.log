@@ -145,7 +145,7 @@ Satellites(name=AsiaSat 7, position=1055, bands=C Ku, transponders=34, feeds=8)
 Satellite(name=105.5E Ku-band AsiaSat 7, position=1055, transponders=2, feeds=0, duplicates=0)
 Satellite(name=105.5E C-band AsiaSat 7, position=1056, transponders=32, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/AsiaSat-5.html ... (42 of 182)
-Satellites(name=AsiaSat 5, position=1005, bands=C Ku, transponders=16, feeds=59)
+Satellites(name=AsiaSat 5, position=1005, bands=C Ku, transponders=16, feeds=57)
 Satellite(name=100.5E Ku-band AsiaSat 5, position=1005, transponders=6, feeds=0, duplicates=0)
 Satellite(name=100.5E C-band AsiaSat 5, position=1006, transponders=10, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/ChinaSat-11.html ... (43 of 182)
@@ -176,8 +176,8 @@ Satellites(name=Measat 3a/3b, position=915, bands=C Ku, transponders=45, feeds=1
 Satellite(name=91.5E Ku-band Measat 3a/3b, position=915, transponders=30, feeds=0, duplicates=0)
 Satellite(name=91.5E C-band Measat 3a/3b, position=916, transponders=15, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Yamal-401.html ... (51 of 182)
-Satellites(name=Yamal 401, position=900, bands=C Ku, transponders=36, feeds=11)
-Satellite(name=90.0E Ku-band Yamal 401, position=900, transponders=13, feeds=0, duplicates=0)
+Satellites(name=Yamal 401, position=900, bands=C Ku, transponders=35, feeds=11)
+Satellite(name=90.0E Ku-band Yamal 401, position=900, transponders=12, feeds=0, duplicates=0)
 Satellite(name=90.0E C-band Yamal 401, position=901, transponders=23, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/ST-2.html ... (52 of 182)
 Satellites(name=ST 2, position=880, bands=C Ku, transponders=25, feeds=1)
@@ -238,7 +238,7 @@ Getting https://www.lyngsat.com/Intelsat-906.html ... (67 of 182)
 Satellites(name=Intelsat 906, position=642, bands=C, transponders=5, feeds=2)
 Satellite(name=64.2E C-band Intelsat 906, position=643, transponders=5, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-39.html ... (68 of 182)
-Satellites(name=Intelsat 39, position=620, bands=C Ku, transponders=22, feeds=14)
+Satellites(name=Intelsat 39, position=620, bands=C Ku, transponders=22, feeds=13)
 Satellite(name=62.0E Ku-band Intelsat 39, position=620, transponders=16, feeds=0, duplicates=0)
 Satellite(name=62.0E C-band Intelsat 39, position=621, transponders=6, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-33e.html ... (69 of 182)
@@ -259,8 +259,8 @@ Getting https://www.lyngsat.com/G-Sat-8-16-and-Yamal-402.html ... (73 of 182)
 Satellites(name=G-Sat 8/16 & Yamal 402, position=549, bands=Ku, transponders=17, feeds=34)
 Satellite(name=54.9E G-Sat 8/16 & Yamal 402, position=549, transponders=17, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Express-AM6.html ... (74 of 182)
-Satellites(name=Express AM6, position=530, bands=Ku, transponders=17, feeds=19)
-Satellite(name=53.0E Express AM6, position=530, transponders=17, feeds=0, duplicates=0)
+Satellites(name=Express AM6, position=530, bands=Ku, transponders=18, feeds=19)
+Satellite(name=53.0E Express AM6, position=530, transponders=18, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Al-Yah-1.html ... (75 of 182)
 Satellites(name=Al Yah 1, position=525, bands=Ku, transponders=17, feeds=0)
 Satellite(name=52.5E Al Yah 1, position=525, transponders=17, feeds=0, duplicates=0)
@@ -294,8 +294,8 @@ Satellites(name=NigComSat 1R, position=425, bands=C Ku, transponders=5, feeds=0)
 Satellite(name=42.5E Ku-band NigComSat 1R, position=425, transponders=4, feeds=0, duplicates=0)
 Satellite(name=42.5E C-band NigComSat 1R, position=426, transponders=1, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Turksat-3A-4A.html ... (85 of 182)
-Satellites(name=Türksat 3A/4A, position=420, bands=Ka Ku, transponders=68, feeds=97)
-Satellite(name=42.0E Ku-band Türksat 3A/4A, position=420, transponders=65, feeds=0, duplicates=0)
+Satellites(name=Türksat 3A/4A, position=420, bands=Ka Ku, transponders=69, feeds=97)
+Satellite(name=42.0E Ku-band Türksat 3A/4A, position=420, transponders=66, feeds=0, duplicates=0)
 Satellite(name=42.0E Ka-band Türksat 3A/4A, position=422, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Express-AM7.html ... (86 of 182)
 Satellites(name=Express AM7, position=400, bands=C Ku, transponders=52, feeds=15)
@@ -313,7 +313,7 @@ Getting https://www.lyngsat.com/Eutelsat-36B-and-Express-AMU1.html ... (89 of 18
 Satellites(name=Eutelsat 36B & Express AMU1, position=360, bands=Ku, transponders=94, feeds=40)
 Satellite(name=36.0E Eutelsat 36B & Express AMU1, position=360, transponders=94, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-33E-and-Intelsat-28.html ... (90 of 182)
-Satellites(name=Eutelsat 33E & Intelsat 28, position=330, bands=Ku, transponders=4, feeds=65)
+Satellites(name=Eutelsat 33E & Intelsat 28, position=330, bands=Ku, transponders=4, feeds=66)
 Satellite(name=33.0E Eutelsat 33E & Intelsat 28, position=330, transponders=4, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Galaxy-14.html ... (91 of 182)
 Satellites(name=Galaxy 14, position=329, bands=, transponders=0, feeds=0)
@@ -321,13 +321,13 @@ Getting https://www.lyngsat.com/Astra-5B.html ... (92 of 182)
 Satellites(name=Astra 5B, position=315, bands=Ku, transponders=14, feeds=0)
 Satellite(name=31.5E Astra 5B, position=315, transponders=14, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Turksat-5A.html ... (93 of 182)
-Satellites(name=Türksat 5A, position=310, bands=Ku, transponders=5, feeds=6)
-Satellite(name=31.0E Türksat 5A, position=310, transponders=5, feeds=0, duplicates=0)
+Satellites(name=Türksat 5A, position=310, bands=Ku, transponders=4, feeds=6)
+Satellite(name=31.0E Türksat 5A, position=310, transponders=4, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Arabsat-5A-6A.html ... (94 of 182)
-Satellites(name=Arabsat 5A/6A, position=305, bands=Ku, transponders=20, feeds=71)
-Satellite(name=30.5E Arabsat 5A/6A, position=305, transponders=20, feeds=0, duplicates=0)
+Satellites(name=Arabsat 5A/6A, position=305, bands=Ku, transponders=21, feeds=71)
+Satellite(name=30.5E Arabsat 5A/6A, position=305, transponders=21, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Astra-2E-2F-2G.html ... (95 of 182)
-Satellites(name=Astra 2E/2F/2G, position=282, bands=Ku, transponders=80, feeds=49)
+Satellites(name=Astra 2E/2F/2G, position=282, bands=Ku, transponders=80, feeds=52)
 Satellite(name=28.2E Astra 2E/2F/2G, position=282, transponders=80, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Badr-4-5-6-7-and-Eshail-2.html ... (96 of 182)
 Satellites(name=Badr 4/5/6/7 & Es'hail 2, position=260, bands=C Ka Ku, transponders=66, feeds=35)
@@ -342,7 +342,7 @@ Getting https://www.lyngsat.com/Astra-3B.html ... (98 of 182)
 Satellites(name=Astra 3B, position=235, bands=Ku, transponders=31, feeds=89)
 Satellite(name=23.5E Astra 3B, position=235, transponders=31, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-21B.html ... (99 of 182)
-Satellites(name=Eutelsat 21B, position=215, bands=Ku, transponders=34, feeds=113)
+Satellites(name=Eutelsat 21B, position=215, bands=Ku, transponders=34, feeds=114)
 Satellite(name=21.5E Eutelsat 21B, position=215, transponders=34, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Arabsat-5C.html ... (100 of 182)
 Satellites(name=Arabsat 5C, position=200, bands=C, transponders=9, feeds=5)
@@ -363,15 +363,15 @@ Getting https://www.lyngsat.com/Hotbird-13B-13C-13E.html ... (104 of 182)
 Satellites(name=Hotbird 13B/13C/13E, position=130, bands=Ku, transponders=85, feeds=7)
 Satellite(name=13.0E Hotbird 13B/13C/13E, position=130, transponders=85, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-10A.html ... (105 of 182)
-Satellites(name=Eutelsat 10A, position=100, bands=C Ku, transponders=35, feeds=213)
-Satellite(name=10.0E Ku-band Eutelsat 10A, position=100, transponders=19, feeds=0, duplicates=0)
+Satellites(name=Eutelsat 10A, position=100, bands=C Ku, transponders=36, feeds=212)
+Satellite(name=10.0E Ku-band Eutelsat 10A, position=100, transponders=20, feeds=0, duplicates=0)
 Satellite(name=10.0E C-band Eutelsat 10A, position=101, transponders=16, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-9B-and-Ka-Sat-9A.html ... (106 of 182)
 Satellites(name=Eutelsat 9B & Ka-Sat 9A, position=90, bands=Ka Ku, transponders=51, feeds=0)
 Satellite(name=9.0E Ku-band Eutelsat 9B & Ka-Sat 9A, position=90, transponders=50, feeds=0, duplicates=0)
 Satellite(name=9.0E Ka-band Eutelsat 9B & Ka-Sat 9A, position=92, transponders=1, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-7B-7C.html ... (107 of 182)
-Satellites(name=Eutelsat 7B/7C, position=70, bands=Ka Ku, transponders=48, feeds=110)
+Satellites(name=Eutelsat 7B/7C, position=70, bands=Ka Ku, transponders=48, feeds=112)
 Satellite(name=7.0E Ku-band Eutelsat 7B/7C, position=70, transponders=45, feeds=0, duplicates=0)
 Satellite(name=7.0E Ka-band Eutelsat 7B/7C, position=72, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Astra-4A-and-SES-5.html ... (108 of 182)
@@ -399,8 +399,8 @@ Satellite(name=4.0W Amos 3/7, position=-40, transponders=33, feeds=0, duplicates
 Getting https://www.lyngsat.com/Eutelsat-5-West-A.html ... (114 of 182)
 Satellites(name=Eutelsat 5 West A, position=-50, bands=, transponders=0, feeds=15)
 Getting https://www.lyngsat.com/Eutelsat-5-West-B.html ... (115 of 182)
-Satellites(name=Eutelsat 5 West B, position=-50, bands=Ku, transponders=51, feeds=0)
-Satellite(name=5.0W Eutelsat 5 West B, position=-50, transponders=51, feeds=0, duplicates=0)
+Satellites(name=Eutelsat 5 West B, position=-50, bands=Ku, transponders=52, feeds=0)
+Satellite(name=5.0W Eutelsat 5 West B, position=-50, transponders=52, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Nilesat-201-and-Eutelsat-7-West-A.html ... (116 of 182)
 Satellites(name=Nilesat 201 & Eutelsat 7 West A, position=-70, bands=Ku, transponders=52, feeds=1)
 Satellite(name=7.0W Nilesat 201 & Eutelsat 7 West A, position=-70, transponders=52, feeds=0, duplicates=0)
@@ -460,15 +460,15 @@ Satellites(name=SES 6, position=-405, bands=C Ku, transponders=92, feeds=10)
 Satellite(name=40.5W C-band SES 6, position=-406, transponders=56, feeds=0, duplicates=0)
 Satellite(name=40.5W Ku-band SES 6, position=-405, transponders=36, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-11-and-Sky-Brasil-1.html ... (133 of 182)
-Satellites(name=Intelsat 11 & Sky Brasil 1, position=-431, bands=C Ku, transponders=52, feeds=8)
-Satellite(name=43.1W C-band Intelsat 11 & Sky Brasil 1, position=-432, transponders=31, feeds=0, duplicates=0)
+Satellites(name=Intelsat 11 & Sky Brasil 1, position=-431, bands=C Ku, transponders=50, feeds=8)
+Satellite(name=43.1W C-band Intelsat 11 & Sky Brasil 1, position=-432, transponders=29, feeds=0, duplicates=0)
 Satellite(name=43.1W Ku-band Intelsat 11 & Sky Brasil 1, position=-431, transponders=21, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-14.html ... (134 of 182)
 Satellites(name=Intelsat 14, position=-450, bands=C Ku, transponders=32, feeds=7)
 Satellite(name=45.0W C-band Intelsat 14, position=-451, transponders=29, feeds=0, duplicates=0)
 Satellite(name=45.0W Ku-band Intelsat 14, position=-450, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/SES-14.html ... (135 of 182)
-Satellites(name=SES 14, position=-475, bands=C, transponders=6, feeds=38)
+Satellites(name=SES 14, position=-475, bands=C, transponders=6, feeds=37)
 Satellite(name=47.5W C-band SES 14, position=-476, transponders=6, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-23.html ... (136 of 182)
 Satellites(name=Intelsat 23, position=-530, bands=Ku, transponders=2, feeds=2)
@@ -478,13 +478,13 @@ Satellites(name=Intelsat 34, position=-555, bands=C, transponders=36, feeds=29)
 Satellite(name=55.5W C-band Intelsat 34, position=-556, transponders=36, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-21.html ... (138 of 182)
 [FIXME] getFrequencyPolarisation: [u'Ku\xa0']
-Satellites(name=Intelsat 21, position=-580, bands=C Ku, transponders=50, feeds=7)
-Satellite(name=58.0W C-band Intelsat 21, position=-581, transponders=33, feeds=0, duplicates=0)
+Satellites(name=Intelsat 21, position=-580, bands=C Ku, transponders=51, feeds=7)
+Satellite(name=58.0W C-band Intelsat 21, position=-581, transponders=34, feeds=0, duplicates=0)
 Satellite(name=58.0W Ku-band Intelsat 21, position=-580, transponders=17, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Amazonas-2-3-5.html ... (139 of 182)
-Satellites(name=Amazonas 2/3/5, position=-610, bands=C Ku, transponders=53, feeds=6)
+Satellites(name=Amazonas 2/3/5, position=-610, bands=C Ku, transponders=52, feeds=6)
 Satellite(name=61.0W C-band Amazonas 2/3/5, position=-611, transponders=10, feeds=0, duplicates=0)
-Satellite(name=61.0W Ku-band Amazonas 2/3/5, position=-610, transponders=43, feeds=0, duplicates=0)
+Satellite(name=61.0W Ku-band Amazonas 2/3/5, position=-610, transponders=42, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/EchoStar-16.html ... (140 of 182)
 [FIXME] Transponder(12224 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12239 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
@@ -667,8 +667,8 @@ Getting https://www.lyngsat.com/Hispasat-74W-1.html ... (149 of 182)
 Satellites(name=Hispasat 74W-1, position=-739, bands=Ku, transponders=3, feeds=0)
 Satellite(name=73.9W Hispasat 74W-1, position=-739, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Star-One-C3.html ... (150 of 182)
-Satellites(name=Star One C3, position=-750, bands=C Ku, transponders=76, feeds=0)
-Satellite(name=75.0W C-band Star One C3, position=-751, transponders=75, feeds=0, duplicates=0)
+Satellites(name=Star One C3, position=-750, bands=C Ku, transponders=77, feeds=0)
+Satellite(name=75.0W C-band Star One C3, position=-751, transponders=76, feeds=0, duplicates=0)
 Satellite(name=75.0W Ku-band Star One C3, position=-750, transponders=1, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/QuetzSat-1.html ... (151 of 182)
 Satellites(name=QuetzSat 1, position=-770, bands=Ku, transponders=7, feeds=20)
@@ -770,8 +770,8 @@ Getting https://www.lyngsat.com/XM-4.html ... (172 of 182)
 [FIXME] getFrequencyPolarisation: [u'S\xa0']
 Satellites(name=XM 4, position=-1150, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Eutelsat-117-West-A-B.html ... (173 of 182)
-Satellites(name=Eutelsat 117 West A/B, position=-1170, bands=C Ku, transponders=54, feeds=1)
-Satellite(name=117.0W C-band Eutelsat 117 West A/B, position=-1171, transponders=43, feeds=0, duplicates=0)
+Satellites(name=Eutelsat 117 West A/B, position=-1170, bands=C Ku, transponders=53, feeds=1)
+Satellite(name=117.0W C-band Eutelsat 117 West A/B, position=-1171, transponders=42, feeds=0, duplicates=0)
 Satellite(name=117.0W Ku-band Eutelsat 117 West A/B, position=-1170, transponders=11, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (174 of 182)
 [FIXME] Transponder(12224 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
@@ -828,8 +828,8 @@ Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (174 of 
 [FIXME] Transponder(12486 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12501 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12516 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-Satellites(name=Anik F3 & T8 & EchoStar 14, position=-1190, bands=C Ku, transponders=111, feeds=11)
-Satellite(name=119.0W C-band Anik F3 & T8 & EchoStar 14, position=-1191, transponders=5, feeds=0, duplicates=0)
+Satellites(name=Anik F3 & T8 & EchoStar 14, position=-1190, bands=C Ku, transponders=112, feeds=11)
+Satellite(name=119.0W C-band Anik F3 & T8 & EchoStar 14, position=-1191, transponders=6, feeds=0, duplicates=0)
 Satellite(name=119.0W Ku-band Anik F3 & T8 & EchoStar 14, position=-1190, transponders=60, feeds=0, duplicates=46)
 Getting https://www.lyngsat.com/EchoStar-9-Galaxy-23.html ... (175 of 182)
 Satellites(name=EchoStar 9/Galaxy 23, position=-1210, bands=C Ku, transponders=6, feeds=3)
@@ -940,16 +940,49 @@ Getting https://www.lyngsat.com/Ciel-2-and-SES-15.html ... (179 of 182)
 [FIXME] Transponder(12399 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12399 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12399 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12399 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12399 R DVB-S SR 20000 7/8 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12399 R DVB-S SR 20000 7/8 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12399 R DVB-S SR 20000 7/8 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12414 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12428 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12443 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12457 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12472 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12501 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12516 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12530 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-Satellites(name=Ciel 2 & SES 15, position=-1290, bands=Ku, transponders=112, feeds=33)
-Satellite(name=129.0W Ciel 2 & SES 15, position=-1290, transponders=30, feeds=0, duplicates=82)
+[FIXME] Transponder(12545 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12559 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12574 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12588 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12603 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12618 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12632 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12647 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+[FIXME] Transponder(12676 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
+Satellites(name=Ciel 2 & SES 15, position=-1290, bands=Ku, transponders=145, feeds=0)
+Satellite(name=129.0W Ciel 2 & SES 15, position=-1290, transponders=43, feeds=0, duplicates=102)
 Getting https://www.lyngsat.com/AMC-11.html ... (180 of 182)
 [FIXME] Transponder(3780 H DVB-S SR 30000 5/6 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 Satellites(name=AMC 11, position=-1310, bands=C, transponders=11, feeds=3)
