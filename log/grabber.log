@@ -237,5 +237,5 @@ Traceback (most recent call last):
   File "/openpli/bin/pli-grab-lyngsat.py", line 466, in __get_mis_pls
     self.t2mi_plp_id = safeint(line[4:])
   File "/openpli/bin/pli-grab-lyngsat.py", line 457, in <lambda>
-    safeint = lambda i: int(''.join(c for c in i if c.isdigit()))
+    safeint = lambda i: int('0'.join(c for c in i if c.isdigit()))
 ValueError: invalid literal for int() with base 10: ''
