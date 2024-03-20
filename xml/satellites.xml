@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-03-19T08:35:38
+    File created on 2024-03-20T08:35:13
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=193, satellites=230)
 -->
@@ -1453,7 +1453,7 @@
 		<transponder frequency="11013000" symbol_rate="35300000" polarization="1" fec_inner="2" system="1" modulation="2" is_id="5" pls_mode="1" pls_code="131070" />
 		<transponder frequency="11016000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="1" pls_mode="1" pls_code="131070" />
 		<transponder frequency="11016000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="4" pls_mode="1" pls_code="131070" />
-		<transponder frequency="11016000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="9" pls_mode="1" pls_code="131070" />
+		<transponder frequency="11016000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="12" pls_mode="1" pls_code="131070" />
 		<transponder frequency="11054000" symbol_rate="29950000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11096000" symbol_rate="29950000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11453900" symbol_rate="543000" polarization="0" fec_inner="1" system="0" modulation="1" />
@@ -4014,6 +4014,7 @@
 	</sat>
 	<sat name="122.0E C-band AsiaSat 9" flags="1" position="1221">
 		<transponder frequency="3803000" symbol_rate="2500000" polarization="1" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="3807000" symbol_rate="2500000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3862000" symbol_rate="8910000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3971000" symbol_rate="15650000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4070000" symbol_rate="15000000" polarization="1" fec_inner="3" system="1" modulation="2" />
