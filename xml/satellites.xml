@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-03-20T08:35:13
+    File created on 2024-03-21T08:35:12
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=193, satellites=230)
 -->
@@ -1666,7 +1666,6 @@
 		<transponder frequency="3934000" symbol_rate="19630000" polarization="3" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3970000" symbol_rate="1666000" polarization="3" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3975000" symbol_rate="1000000" polarization="3" fec_inner="3" system="1" modulation="1" />
-		<transponder frequency="3987000" symbol_rate="16300000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="4004000" symbol_rate="1230000" polarization="2" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="4005000" symbol_rate="1250000" polarization="2" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="4007000" symbol_rate="1866000" polarization="2" fec_inner="7" system="1" modulation="2" />
@@ -1684,7 +1683,6 @@
 		<transponder frequency="4063000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="4" t2mi_plp_id="1" />
 		<transponder frequency="4063000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="5" t2mi_plp_id="1" />
 		<transponder frequency="4075000" symbol_rate="2082000" polarization="3" fec_inner="7" system="1" modulation="2" />
-		<transponder frequency="4082000" symbol_rate="7146000" polarization="3" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4099000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="2" t2mi_plp_id="0" />
 		<transponder frequency="4099000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="2" t2mi_plp_id="1" />
 		<transponder frequency="4099000" symbol_rate="33900000" polarization="2" fec_inner="2" system="1" modulation="1" is_id="3" t2mi_plp_id="0" />
