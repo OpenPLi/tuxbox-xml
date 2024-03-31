@@ -312,7 +312,7 @@ Getting https://www.lyngsat.com/Eutelsat-36B-and-Express-AMU1.html ... (92 of 19
 Satellites(name=Eutelsat 36B & Express AMU1, position=360, bands=Ku, transponders=100, feeds=63)
 Satellite(name=36.0E Eutelsat 36B & Express AMU1, position=360, transponders=100, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-33F-and-Intelsat-28.html ... (93 of 193)
-Satellites(name=Eutelsat 33F & Intelsat 28, position=330, bands=Ku, transponders=3, feeds=83)
+Satellites(name=Eutelsat 33F & Intelsat 28, position=330, bands=Ku, transponders=3, feeds=84)
 Satellite(name=33.0E Eutelsat 33F & Intelsat 28, position=330, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Turksat-5A.html ... (94 of 193)
 Satellites(name=Türksat 5A, position=310, bands=Ku, transponders=2, feeds=8)
@@ -752,21 +752,19 @@ Satellites(name=Anik F2, position=-1111, bands=C, transponders=1, feeds=7)
 Satellite(name=111.1W C-band Anik F2, position=-1112, transponders=1, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Anik-F4.html ... (176 of 193)
 Satellites(name=Anik F4, position=-1111, bands=, transponders=0, feeds=0)
-Getting https://www.lyngsat.com/Eutelsat-113-West-A.html ... (177 of 193)
-Satellites(name=Eutelsat 113 West A, position=-1125, bands=, transponders=0, feeds=0)
-Getting https://www.lyngsat.com/Eutelsat-115-West-B.html ... (178 of 193)
+Getting https://www.lyngsat.com/Eutelsat-115-West-B.html ... (177 of 193)
 Satellites(name=Eutelsat 115 West B, position=-1149, bands=C, transponders=8, feeds=2)
 Satellite(name=114.9W C-band Eutelsat 115 West B, position=-1150, transponders=8, feeds=0, duplicates=0)
-Getting https://www.lyngsat.com/Sirius-XM-5.html ... (179 of 193)
+Getting https://www.lyngsat.com/Sirius-XM-5.html ... (178 of 193)
 [FIXME] getFrequencyPolarisation: [u' 2336']
 [FIXME] getFrequencyPolarisation: [u' 2342']
 [FIXME] getFrequencyPolarisation: [u'S\xa0']
 Satellites(name=Sirius XM 5, position=-1152, bands=, transponders=0, feeds=0)
-Getting https://www.lyngsat.com/Eutelsat-117-West-A-B.html ... (180 of 193)
+Getting https://www.lyngsat.com/Eutelsat-117-West-A-B.html ... (179 of 193)
 Satellites(name=Eutelsat 117 West A/B, position=-1170, bands=C Ku, transponders=89, feeds=2)
 Satellite(name=117.0W C-band Eutelsat 117 West A/B, position=-1171, transponders=74, feeds=0, duplicates=0)
 Satellite(name=117.0W Ku-band Eutelsat 117 West A/B, position=-1170, transponders=15, feeds=0, duplicates=0)
-Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (181 of 193)
+Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (180 of 193)
 [FIXME] Transponder(12224 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12224 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12224 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
@@ -824,6 +822,8 @@ Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (181 of 
 Satellites(name=Anik F3 & T8 & EchoStar 14, position=-1190, bands=C Ku, transponders=111, feeds=11)
 Satellite(name=119.0W C-band Anik F3 & T8 & EchoStar 14, position=-1191, transponders=5, feeds=0, duplicates=0)
 Satellite(name=119.0W Ku-band Anik F3 & T8 & EchoStar 14, position=-1190, transponders=60, feeds=0, duplicates=46)
+Getting https://www.lyngsat.com/Eutelsat-113-West-A.html ... (181 of 193)
+Satellites(name=Eutelsat 113 West A, position=-1195, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Galaxy-31.html ... (182 of 193)
 Satellites(name=Galaxy 31, position=-1210, bands=, transponders=0, feeds=15)
 Getting https://www.lyngsat.com/Galaxy-18.html ... (183 of 193)
