@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-05-13T07:35:10
+    File created on 2024-05-14T07:35:11
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=193, satellites=231)
 -->
@@ -2125,10 +2125,11 @@
 	<sat name="20.0E C-band Arabsat 5C" flags="1" position="201">
 		<transponder frequency="3747000" symbol_rate="4270000" polarization="2" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3818000" symbol_rate="1600000" polarization="3" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="3860000" symbol_rate="400000" polarization="2" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3866000" symbol_rate="1150000" polarization="2" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="3884000" symbol_rate="27500000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3934000" symbol_rate="27500000" polarization="2" fec_inner="5" system="0" modulation="1" />
+		<transponder frequency="4193000" symbol_rate="1262000" polarization="2" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="4194000" symbol_rate="400000" polarization="2" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="21.5E Eutelsat 21B" flags="1" position="215">
 		<transponder frequency="10723000" symbol_rate="32115000" polarization="1" fec_inner="1" system="1" modulation="1" />
@@ -2812,7 +2813,6 @@
 		<transponder frequency="3614000" symbol_rate="2607000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3634000" symbol_rate="4810000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3645000" symbol_rate="4915000" polarization="3" fec_inner="4" system="0" modulation="1" />
-		<transponder frequency="3694000" symbol_rate="2000000" polarization="3" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3718000" symbol_rate="17950000" polarization="3" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="52.0E TurkmenÄlem/MonacoSat" flags="1" position="520">
@@ -3642,6 +3642,7 @@
 	<sat name="101.4E ChinaSat 9B" flags="1" position="1014">
 		<transponder frequency="11960000" symbol_rate="28800000" polarization="2" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="12020000" symbol_rate="28800000" polarization="3" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="12170000" symbol_rate="51400000" polarization="3" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="103.0E C-band Express AMU3" flags="1" position="1031">
 		<transponder frequency="3675000" symbol_rate="5120000" polarization="3" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
