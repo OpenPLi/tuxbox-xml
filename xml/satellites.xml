@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-06-11T07:34:59
+    File created on 2024-06-12T07:35:09
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=192, satellites=229)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=193, satellites=229)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -1299,7 +1299,7 @@
 		<transponder frequency="12717000" symbol_rate="24910000" polarization="1" fec_inner="8" system="1" modulation="1" />
 	</sat>
 	<sat name="14.0W C-band Express AM8" flags="1" position="-141">
-		<transponder frequency="3630000" symbol_rate="16830000" polarization="3" fec_inner="1" system="1" modulation="1" />
+		<transponder frequency="3630000" symbol_rate="22530000" polarization="3" fec_inner="1" system="1" modulation="1" />
 		<transponder frequency="3675000" symbol_rate="35393000" polarization="3" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3975000" symbol_rate="5385000" polarization="3" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4068000" symbol_rate="1666000" polarization="2" fec_inner="3" system="1" modulation="1" />
@@ -2487,6 +2487,7 @@
 		<transponder frequency="3856000" symbol_rate="2900000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3862000" symbol_rate="1850000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3952000" symbol_rate="2960000" polarization="1" fec_inner="7" system="1" modulation="2" />
+		<transponder frequency="3958000" symbol_rate="6400000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3964000" symbol_rate="2356000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3969000" symbol_rate="6944000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3979000" symbol_rate="3650000" polarization="1" fec_inner="7" system="1" modulation="2" />
