@@ -10,7 +10,7 @@ Satellites(name=Intelsat 18, position=1800, bands=C Ku, transponders=11, feeds=2
 Satellite(name=180.0E Ku-band Intelsat 18, position=1800, transponders=7, feeds=0, duplicates=0)
 Satellite(name=180.0E C-band Intelsat 18, position=1801, transponders=4, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-172B.html ... (3 of 192)
-Satellites(name=Eutelsat 172B, position=1720, bands=C Ku, transponders=12, feeds=6)
+Satellites(name=Eutelsat 172B, position=1720, bands=C Ku, transponders=12, feeds=7)
 Satellite(name=172.0E Ku-band Eutelsat 172B, position=1720, transponders=7, feeds=0, duplicates=0)
 Satellite(name=172.0E C-band Eutelsat 172B, position=1721, transponders=5, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Horizons-3e.html ... (4 of 192)
