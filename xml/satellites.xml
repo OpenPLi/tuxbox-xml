@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-08-04T07:35:47
+    File created on 2024-08-05T07:35:48
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=195, satellites=228)
 -->
@@ -335,7 +335,6 @@
 	</sat>
 	<sat name="103.0W Ku-band T10/T12 &amp; SES 3/18" flags="1" position="-1030">
 		<transponder frequency="12080000" symbol_rate="29970000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="12145000" symbol_rate="20000000" polarization="1" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="101.0W C-band T9S/T16 &amp; SES 1" flags="1" position="-1011">
 		<transponder frequency="4005000" symbol_rate="4442000" polarization="1" fec_inner="3" system="0" modulation="1" />
