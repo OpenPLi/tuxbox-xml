@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-08-20T07:35:45
+    File created on 2024-08-21T07:35:47
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=195, satellites=227)
 -->
@@ -1068,6 +1068,7 @@
 		<transponder frequency="3962000" symbol_rate="4332000" polarization="3" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3962000" symbol_rate="5715000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="102" t2mi_pid="64" />
 		<transponder frequency="3974000" symbol_rate="1920000" polarization="3" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="3979000" symbol_rate="23300000" polarization="2" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4000000" symbol_rate="5453000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="103" t2mi_pid="64" />
 		<transponder frequency="4012000" symbol_rate="9830000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="101" t2mi_pid="64" />
 		<transponder frequency="4019000" symbol_rate="6700000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="0" t2mi_pid="64" />
@@ -3886,7 +3887,6 @@
 		<transponder frequency="4550000" symbol_rate="4158000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4552000" symbol_rate="10000000" polarization="1" fec_inner="8" system="1" modulation="2" />
 		<transponder frequency="4555000" symbol_rate="4800000" polarization="0" fec_inner="2" system="1" modulation="2" />
-		<transponder frequency="4561000" symbol_rate="4800000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4567000" symbol_rate="4785000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4575000" symbol_rate="4800000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4600000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
