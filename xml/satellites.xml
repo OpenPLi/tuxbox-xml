@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-09-25T07:36:04
+    File created on 2024-09-26T07:36:03
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=196, satellites=226)
 -->
@@ -319,6 +319,7 @@
 		<transponder frequency="4122000" symbol_rate="2500000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4140000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4147000" symbol_rate="7960000" polarization="1" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="4162000" symbol_rate="4166000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4180000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="105.0W Ku-band AMC 15 &amp; EchoStar 105/SES 11" flags="1" position="-1050">
