@@ -1,4 +1,13 @@
+Getting asia region...
 Traceback (most recent call last):
-  File "/openpli/bin/pli-grab-lyngsat.py", line 11, in <module>
-    import requests
-ModuleNotFoundError: No module named 'requests'
+  File "/openpli/bin/pli-grab-lyngsat.py", line 591, in <module>
+    main()
+  File "/openpli/bin/pli-grab-lyngsat.py", line 584, in main
+    lyngsat_parser = Lyngsat(satlist=args.region, urls=args.url,
+  File "/openpli/bin/pli-grab-lyngsat.py", line 104, in __init__
+    self.urls = self.get_urls()
+  File "/openpli/bin/pli-grab-lyngsat.py", line 127, in get_urls
+    page = BeautifulSoup(res.text, PARSER)
+  File "/usr/lib/python3.9/site-packages/bs4/__init__.py", line 245, in __init__
+    raise FeatureNotFound(
+bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
