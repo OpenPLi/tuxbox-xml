@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-12-14T09:35:41
+    File created on 2024-12-15T09:36:04
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=224)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=199, satellites=223)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -2327,9 +2327,6 @@
 	<sat name="31.0E Türksat 5A" flags="1" position="310">
 		<transponder frequency="10992000" symbol_rate="2220000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="11515000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
-	</sat>
-	<sat name="33.0E Eutelsat 33F &amp; Intelsat 28" flags="1" position="330">
-		<transponder frequency="10975000" symbol_rate="30000000" polarization="0" fec_inner="9" system="1" modulation="1" />
 	</sat>
 	<sat name="36.0E Eutelsat 36D &amp; Express AMU1" flags="1" position="360">
 		<transponder frequency="11106000" symbol_rate="3333000" polarization="1" fec_inner="7" system="1" modulation="2" />
