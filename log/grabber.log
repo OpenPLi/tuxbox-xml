@@ -347,7 +347,7 @@ Getting https://www.lyngsat.com/Eutelsat-21B.html ... (108 of 200)
 Satellites(name=Eutelsat 21B, position=215, bands=Ku, transponders=35, feeds=134)
 Satellite(name=21.5E Eutelsat 21B, position=215, transponders=35, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-28.html ... (109 of 200)
-Satellites(name=Intelsat 28, position=210, bands=, transponders=0, feeds=0)
+Satellites(name=Intelsat 28, position=200, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Arabsat-5C.html ... (110 of 200)
 Satellites(name=Arabsat 5C, position=200, bands=C, transponders=8, feeds=0)
 Satellite(name=20.0E C-band Arabsat 5C, position=201, transponders=8, feeds=0, duplicates=0)
@@ -375,7 +375,7 @@ Satellites(name=Eutelsat 9B & Ka-Sat 9A, position=90, bands=Ku Ka, transponders=
 Satellite(name=9.0E Ku-band Eutelsat 9B & Ka-Sat 9A, position=90, transponders=50, feeds=0, duplicates=0)
 Satellite(name=9.0E Ka-band Eutelsat 9B & Ka-Sat 9A, position=92, transponders=1, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Astra-1P.html ... (117 of 200)
-Satellites(name=Astra 1P, position=70, bands=, transponders=0, feeds=0)
+Satellites(name=Astra 1P, position=80, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Eutelsat-7B-7C.html ... (118 of 200)
 [FIXME] Transponder(11221 H DVB-S SR 34286 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(11222 V DVB-S SR 34286 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
