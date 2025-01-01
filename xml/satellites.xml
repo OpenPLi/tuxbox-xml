@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2024-12-31T09:35:56
+    File created on 2025-01-01T09:35:53
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=222)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=223)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -2064,7 +2064,6 @@
 	</sat>
 	<sat name="20.0E C-band Arabsat 5C" flags="1" position="201">
 		<transponder frequency="3747000" symbol_rate="4270000" polarization="2" fec_inner="3" system="0" modulation="1" />
-		<transponder frequency="3769000" symbol_rate="31000000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3866000" symbol_rate="1150000" polarization="2" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="3884000" symbol_rate="27500000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3934000" symbol_rate="27500000" polarization="2" fec_inner="5" system="0" modulation="1" />
@@ -4078,6 +4077,9 @@
 		<transponder frequency="3745000" symbol_rate="3150000" polarization="3" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3766000" symbol_rate="15285000" polarization="3" fec_inner="3" system="1" modulation="2" t2mi_plp_id="0" />
 	</sat>
+	<sat name="146.0E C-band Nusantara Satu" flags="1" position="1461">
+		<transponder frequency="4013000" symbol_rate="4090000" polarization="0" fec_inner="1" system="1" modulation="1" />
+	</sat>
 	<sat name="150.5E C-band BRIsat" flags="1" position="1506">
 		<transponder frequency="3532000" symbol_rate="13330000" polarization="0" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3855000" symbol_rate="13330000" polarization="1" fec_inner="7" system="1" modulation="2" />
@@ -4170,6 +4172,8 @@
 		<transponder frequency="12569000" symbol_rate="26809000" polarization="1" fec_inner="6" system="1" modulation="4" is_id="162" />
 		<transponder frequency="12569000" symbol_rate="26809000" polarization="1" fec_inner="6" system="1" modulation="4" is_id="163" />
 		<transponder frequency="12569000" symbol_rate="26809000" polarization="1" fec_inner="6" system="1" modulation="4" is_id="164" />
+		<transponder frequency="12569000" symbol_rate="26809000" polarization="1" fec_inner="6" system="1" modulation="4" is_id="165" />
+		<transponder frequency="12569000" symbol_rate="26809000" polarization="1" fec_inner="6" system="1" modulation="4" is_id="166" />
 		<transponder frequency="12590000" symbol_rate="2893000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="12606000" symbol_rate="30000000" polarization="0" fec_inner="4" system="0" modulation="1" />
 	</sat>
