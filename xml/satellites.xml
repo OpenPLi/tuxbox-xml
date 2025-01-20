@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-01-19T09:35:59
+    File created on 2025-01-20T09:36:05
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=224)
 -->
@@ -1950,7 +1950,6 @@
 	</sat>
 	<sat name="17.0E Ku-band Amos 17" flags="1" position="170">
 		<transponder frequency="11717000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="1" />
-		<transponder frequency="11754000" symbol_rate="28190000" polarization="1" fec_inner="8" system="1" modulation="1" />
 		<transponder frequency="11881000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="1" />
 		<transponder frequency="11918000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="11990000" symbol_rate="2269000" polarization="1" fec_inner="2" system="1" modulation="1" />
@@ -2218,7 +2217,6 @@
 		<transponder frequency="12683000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="26.0E C-band Badr 5/7/8 &amp; Es'hail 2" flags="1" position="261">
-		<transponder frequency="4085000" symbol_rate="3330000" polarization="2" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4099000" symbol_rate="20000000" polarization="2" fec_inner="2" system="1" modulation="2" />
 	</sat>
 	<sat name="28.2E Astra 2E/2F/2G" flags="1" position="282">
@@ -3101,6 +3099,7 @@
 		<transponder frequency="3854000" symbol_rate="16410000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="171" t2mi_plp_id="0" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="172" t2mi_plp_id="0" />
+		<transponder frequency="3890000" symbol_rate="1133000" polarization="0" fec_inner="2" system="1" modulation="1" />
 		<transponder frequency="4093000" symbol_rate="15000000" polarization="1" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="76.5E Ku-band Apstar 7" flags="1" position="765">
