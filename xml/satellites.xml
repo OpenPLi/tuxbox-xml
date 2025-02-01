@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-01-31T08:36:04
+    File created on 2025-02-01T08:36:06
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=223)
 -->
@@ -3607,8 +3607,8 @@
 		<transponder frequency="12281000" symbol_rate="45000000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12341000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12341000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
-		<transponder frequency="12401000" symbol_rate="45000000" polarization="0" fec_inner="4" system="1" modulation="2" />
-		<transponder frequency="12461000" symbol_rate="45000000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="12401000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="12461000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12591000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12651000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12676000" symbol_rate="5028000" polarization="0" fec_inner="1" system="0" modulation="1" />

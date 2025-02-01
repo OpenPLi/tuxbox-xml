@@ -412,7 +412,7 @@ Satellites(name=Nilesat 201/301 & Eutelsat 7 West A, position=-70, bands=Ku Ka, 
 Satellite(name=7.0W Ka-band Nilesat 201/301 & Eutelsat 7 West A, position=-72, transponders=2, feeds=0, duplicates=0)
 Satellite(name=7.0W Ku-band Nilesat 201/301 & Eutelsat 7 West A, position=-70, transponders=63, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Eutelsat-8-West-B.html ... (126 of 200)
-Satellites(name=Eutelsat 8 West B, position=-80, bands=C Ku, transponders=39, feeds=35)
+Satellites(name=Eutelsat 8 West B, position=-80, bands=C Ku, transponders=39, feeds=34)
 Satellite(name=8.0W C-band Eutelsat 8 West B, position=-81, transponders=11, feeds=0, duplicates=0)
 Satellite(name=8.0W Ku-band Eutelsat 8 West B, position=-80, transponders=28, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Express-AM44.html ... (127 of 200)
