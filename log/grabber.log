@@ -346,7 +346,7 @@ Satellite(name=23.5E Astra 3B/3C, position=235, transponders=27, feeds=0, duplic
 Getting https://www.lyngsat.com/Angosat-2.html ... (107 of 200)
 Satellites(name=Angosat 2, position=230, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Eutelsat-21B.html ... (108 of 200)
-Satellites(name=Eutelsat 21B, position=215, bands=Ku, transponders=36, feeds=133)
+Satellites(name=Eutelsat 21B, position=215, bands=Ku, transponders=36, feeds=134)
 Satellite(name=21.5E Eutelsat 21B, position=215, transponders=36, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Arabsat-5C.html ... (109 of 200)
 Satellites(name=Arabsat 5C, position=200, bands=C, transponders=7, feeds=0)
@@ -377,7 +377,7 @@ Satellite(name=9.0E Ka-band Eutelsat 9B & Ka-Sat 9A, position=92, transponders=1
 Getting https://www.lyngsat.com/Eutelsat-7B-7C.html ... (116 of 200)
 [FIXME] Transponder(11221 H DVB-S SR 34286 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(11222 V DVB-S SR 34286 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-Satellites(name=Eutelsat 7B/7C, position=70, bands=Ku Ka, transponders=29, feeds=161)
+Satellites(name=Eutelsat 7B/7C, position=70, bands=Ku Ka, transponders=29, feeds=162)
 Satellite(name=7.0E Ku-band Eutelsat 7B/7C, position=70, transponders=26, feeds=0, duplicates=0)
 Satellite(name=7.0E Ka-band Eutelsat 7B/7C, position=72, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Astra-4A-and-SES-5.html ... (117 of 200)
