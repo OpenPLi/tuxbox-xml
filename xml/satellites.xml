@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-02-05T08:35:58
+    File created on 2025-02-06T08:36:02
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=223)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=224)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -3059,7 +3059,6 @@
 	</sat>
 	<sat name="75.0E C-band ABS 2/2A" flags="1" position="751">
 		<transponder frequency="3521000" symbol_rate="1666000" polarization="1" fec_inner="4" system="1" modulation="1" />
-		<transponder frequency="3720000" symbol_rate="1040000" polarization="0" fec_inner="1" system="1" modulation="1" />
 		<transponder frequency="3854000" symbol_rate="16410000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="171" t2mi_plp_id="0" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="172" t2mi_plp_id="0" />
@@ -4151,6 +4150,9 @@
 		<transponder frequency="4161000" symbol_rate="3448000" polarization="1" fec_inner="7" system="1" modulation="1" />
 		<transponder frequency="4174000" symbol_rate="4400000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4180000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
+	</sat>
+	<sat name="169.0E C-band Horizons 3e" flags="1" position="1691">
+		<transponder frequency="4172000" symbol_rate="11000000" polarization="3" fec_inner="1" system="1" modulation="1" />
 	</sat>
 	<sat name="172.0E Ku-band Eutelsat 172B" flags="1" position="1720">
 		<transponder frequency="11044000" symbol_rate="45000000" polarization="1" fec_inner="8" system="1" modulation="4" is_id="123" />
