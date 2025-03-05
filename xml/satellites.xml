@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-03-04T08:36:11
+    File created on 2025-03-05T08:36:21
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=199, satellites=223)
 -->
@@ -362,7 +362,6 @@
 		<transponder frequency="11760000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11806000" symbol_rate="2390000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12016000" symbol_rate="1075000" polarization="1" fec_inner="2" system="1" modulation="1" />
-		<transponder frequency="12095000" symbol_rate="3676000" polarization="0" fec_inner="8" system="1" modulation="1" />
 		<transponder frequency="12140000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="97.0W C-band Galaxy 19" flags="1" position="-971">
@@ -3758,7 +3757,7 @@
 		<transponder frequency="12316000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12560000" symbol_rate="10000000" polarization="0" fec_inner="7" system="1" modulation="2" />
 	</sat>
-	<sat name="119.3E Ku-band Thaicom 4 &amp; Bangabandhu 1" flags="1" position="1193">
+	<sat name="119.3E Ku-band Thaicom 4 &amp; Bangladesh 1" flags="1" position="1193">
 		<transponder frequency="10805000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10845000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10885000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
@@ -3770,7 +3769,7 @@
 		<transponder frequency="12494000" symbol_rate="2083000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12499000" symbol_rate="2083000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="119.3E C-band Thaicom 4 &amp; Bangabandhu 1" flags="1" position="1194">
+	<sat name="119.3E C-band Thaicom 4 &amp; Bangladesh 1" flags="1" position="1194">
 		<transponder frequency="4520000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4525000" symbol_rate="2400000" polarization="1" fec_inner="10" system="1" modulation="2" />
 		<transponder frequency="4533000" symbol_rate="8000000" polarization="1" fec_inner="2" system="1" modulation="2" />
