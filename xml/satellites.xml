@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-03-16T08:36:17
+    File created on 2025-03-17T08:36:22
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=223)
 -->
@@ -2297,7 +2297,6 @@
 		<transponder frequency="11727000" symbol_rate="27500000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11747000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="11747000" symbol_rate="27500000" polarization="3" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="11766000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="11766000" symbol_rate="27500000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11785000" symbol_rate="27500000" polarization="3" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11804000" symbol_rate="27500000" polarization="2" fec_inner="3" system="1" modulation="2" />
@@ -3549,7 +3548,7 @@
 		<transponder frequency="4156000" symbol_rate="8165000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4180000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="108.2E S-band SES 7/9 &amp; Telkom 4" flags="1" position="1080">
+	<sat name="108.1E S-band SES 7/9 &amp; Telkom 4" flags="1" position="1079">
 		<transponder frequency="2535000" symbol_rate="22500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="2535000" symbol_rate="22500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="2565000" symbol_rate="22500000" polarization="0" fec_inner="3" system="1" modulation="2" />
@@ -3561,7 +3560,7 @@
 		<transponder frequency="2655000" symbol_rate="22500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="2655000" symbol_rate="22500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="108.2E Ku-band SES 7/9 &amp; Telkom 4" flags="1" position="1082">
+	<sat name="108.1E Ku-band SES 7/9 &amp; Telkom 4" flags="1" position="1081">
 		<transponder frequency="10981000" symbol_rate="45000000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="11101000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11481000" symbol_rate="18750000" polarization="0" fec_inner="5" system="0" modulation="1" />
@@ -3599,7 +3598,7 @@
 		<transponder frequency="12711000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12711000" symbol_rate="45000000" polarization="0" fec_inner="4" system="0" modulation="1" />
 	</sat>
-	<sat name="108.2E C-band SES 7/9 &amp; Telkom 4" flags="1" position="1083">
+	<sat name="108.1E C-band SES 7/9 &amp; Telkom 4" flags="1" position="1082">
 		<transponder frequency="3720000" symbol_rate="32727000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3752000" symbol_rate="3083000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3756000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="2" />
