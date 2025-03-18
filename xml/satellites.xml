@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-03-17T08:36:22
+    File created on 2025-03-18T08:36:32
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=223)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=201, satellites=224)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -1111,7 +1111,7 @@
 		<transponder frequency="12184000" symbol_rate="22500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12184000" symbol_rate="22500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="37.5W C-band NSS 10 &amp; Telstar 11N" flags="1" position="-376">
+	<sat name="37.5W C-band NSS 10" flags="1" position="-376">
 		<transponder frequency="3868000" symbol_rate="6666000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3955000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="3958000" symbol_rate="2222000" polarization="0" fec_inner="3" system="0" modulation="1" />
@@ -2188,6 +2188,9 @@
 	<sat name="26.0E C-band Badr 5/7/8 &amp; Es'hail 2" flags="1" position="261">
 		<transponder frequency="4085000" symbol_rate="3330000" polarization="2" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4099000" symbol_rate="20000000" polarization="2" fec_inner="2" system="1" modulation="2" />
+	</sat>
+	<sat name="28.2E AsiaSat 8" flags="1" position="282">
+		<transponder frequency="11778000" symbol_rate="27500000" polarization="1" fec_inner="2" system="0" modulation="1" />
 	</sat>
 	<sat name="28.2E Astra 2E/2F/2G" flags="1" position="282">
 		<transponder frequency="10773000" symbol_rate="23000000" polarization="0" fec_inner="3" system="1" modulation="2" />
