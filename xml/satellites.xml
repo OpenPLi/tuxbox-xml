@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-04-23T08:35:33
+    File created on 2025-04-24T08:35:43
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=201, satellites=222)
 -->
@@ -1410,7 +1410,7 @@
 	</sat>
 	<sat name="4.0W Amos 3" flags="1" position="-40">
 		<transponder frequency="10722000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
-		<transponder frequency="10758000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
+		<transponder frequency="10758000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="10806000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10842000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10890000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
@@ -1665,7 +1665,6 @@
 		<transponder frequency="12657000" symbol_rate="2475000" polarization="0" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="7.0E Ka-band Eutelsat 7B/7C" flags="1" position="72">
-		<transponder frequency="21595000" symbol_rate="1100000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="21620000" symbol_rate="2200000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="21638000" symbol_rate="1100000" polarization="0" fec_inner="2" system="1" modulation="2" />
 	</sat>
