@@ -228,8 +228,8 @@ Satellites(name=Apstar 7, position=765, bands=C Ku, transponders=17, feeds=10)
 Satellite(name=76.5E Ku-band Apstar 7, position=765, transponders=5, feeds=0, duplicates=0)
 Satellite(name=76.5E C-band Apstar 7, position=766, transponders=12, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/ABS-2-2A.html ... (71 of 199)
-Satellites(name=ABS 2/2A, position=750, bands=C Ku, transponders=23, feeds=6)
-Satellite(name=75.0E Ku-band ABS 2/2A, position=750, transponders=17, feeds=0, duplicates=0)
+Satellites(name=ABS 2/2A, position=750, bands=C Ku, transponders=24, feeds=6)
+Satellite(name=75.0E Ku-band ABS 2/2A, position=750, transponders=18, feeds=0, duplicates=0)
 Satellite(name=75.0E C-band ABS 2/2A, position=751, transponders=6, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/G-Sat-18.html ... (72 of 199)
 Satellites(name=G-Sat 18, position=740, bands=C Ku, transponders=7, feeds=2)
@@ -424,7 +424,7 @@ Satellites(name=Express AM8, position=-140, bands=C Ku, transponders=16, feeds=3
 Satellite(name=14.0W C-band Express AM8, position=-141, transponders=9, feeds=0, duplicates=0)
 Satellite(name=14.0W Ku-band Express AM8, position=-140, transponders=7, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Telstar-12-Vantage.html ... (129 of 199)
-Satellites(name=Telstar 12 Vantage, position=-150, bands=Ku, transponders=7, feeds=1)
+Satellites(name=Telstar 12 Vantage, position=-150, bands=Ku, transponders=7, feeds=0)
 Satellite(name=15.0W Telstar 12 Vantage, position=-150, transponders=7, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Hotbird-13E.html ... (130 of 199)
 Satellites(name=Hotbird 13E, position=-160, bands=, transponders=0, feeds=0)
@@ -830,7 +830,7 @@ Getting https://www.lyngsat.com/Anik-F3-and-T8-and-EchoStar-14.html ... (187 of 
 [FIXME] Transponder(12486 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12501 L DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12516 R DVB-S SR 21500 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-Satellites(name=Anik F3 & T8 & EchoStar 14, position=-1190, bands=Ku, transponders=106, feeds=12)
+Satellites(name=Anik F3 & T8 & EchoStar 14, position=-1190, bands=Ku, transponders=106, feeds=11)
 Satellite(name=119.0W Anik F3 & T8 & EchoStar 14, position=-1190, transponders=60, feeds=0, duplicates=46)
 Getting https://www.lyngsat.com/Galaxy-31.html ... (188 of 199)
 Satellites(name=Galaxy 31, position=-1210, bands=C, transponders=1, feeds=3)
