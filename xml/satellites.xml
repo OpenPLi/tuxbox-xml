@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-05-04T08:35:30
+    File created on 2025-05-05T08:36:10
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=199, satellites=221)
 -->
@@ -502,8 +502,8 @@
 		<transponder frequency="3887000" symbol_rate="740000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3894000" symbol_rate="5000000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="3905000" symbol_rate="4166000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="3910000" symbol_rate="3750000" polarization="0" fec_inner="0" system="1" modulation="2" />
 		<transponder frequency="3910000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="3912000" symbol_rate="2915000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3927000" symbol_rate="17500000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3932000" symbol_rate="7500000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3943000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="1" />
@@ -2592,6 +2592,7 @@
 		<transponder frequency="11175000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="46.0E C-band Azerspace 1" flags="1" position="461">
+		<transponder frequency="3814000" symbol_rate="1666000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3817000" symbol_rate="3333000" polarization="0" fec_inner="1" system="1" modulation="1" />
 		<transponder frequency="3834000" symbol_rate="1585000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3838000" symbol_rate="1250000" polarization="0" fec_inner="7" system="1" modulation="2" />
