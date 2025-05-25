@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-05-24T08:36:31
+    File created on 2025-05-25T08:36:01
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=199, satellites=221)
 -->
@@ -3034,7 +3034,6 @@
 		<transponder frequency="12726000" symbol_rate="23330000" polarization="0" fec_inner="1" system="1" modulation="1" />
 	</sat>
 	<sat name="75.0E C-band ABS 2/2A" flags="1" position="751">
-		<transponder frequency="3521000" symbol_rate="1666000" polarization="1" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="3854000" symbol_rate="16410000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="171" t2mi_plp_id="0" />
 		<transponder frequency="3871000" symbol_rate="51430000" polarization="0" fec_inner="7" system="1" modulation="4" is_id="172" t2mi_plp_id="0" />
