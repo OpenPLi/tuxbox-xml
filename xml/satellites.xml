@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-06-13T08:36:14
+    File created on 2025-06-14T08:36:13
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=202, satellites=221)
 -->
@@ -778,6 +778,7 @@
 		<transponder frequency="12676000" symbol_rate="21500000" polarization="2" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="61.0W C-band Amazonas 2/3/5" flags="1" position="-611">
+		<transponder frequency="3828000" symbol_rate="10445000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3942000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3960000" symbol_rate="3750000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3970000" symbol_rate="9875000" polarization="0" fec_inner="2" system="1" modulation="2" />
