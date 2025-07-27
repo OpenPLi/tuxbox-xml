@@ -670,8 +670,7 @@ Getting https://www.lyngsat.com/Nimiq-5.html ... (160 of 207)
 Satellites(name=Nimiq 5, position=-727, bands=Ku, transponders=25, feeds=0)
 Satellite(name=72.7W Nimiq 5, position=-727, transponders=25, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Hispasat-74W-1.html ... (161 of 207)
-Satellites(name=Hispasat 74W-1, position=-739, bands=Ku, transponders=3, feeds=0)
-Satellite(name=73.9W Hispasat 74W-1, position=-739, transponders=3, feeds=0, duplicates=0)
+[WARN] Exception occured HTTPError('520 Server Error: <none> for url: https://www.lyngsat.com/Hispasat-74W-1.html'), will retry https://www.lyngsat.com/Hispasat-74W-1.html later...
 Getting https://www.lyngsat.com/Star-One-C3.html ... (162 of 207)
 Satellites(name=Star One C3, position=-750, bands=C, transponders=54, feeds=4)
 Satellite(name=75.0W C-band Star One C3, position=-751, transponders=54, feeds=0, duplicates=0)
@@ -882,6 +881,9 @@ Getting https://www.lyngsat.com/ChinaSat-4A.html ... (209 of 207)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-4A.html'), skipping https://www.lyngsat.com/ChinaSat-4A.html ...
 Getting https://www.lyngsat.com/ChinaSat-3A.html ... (210 of 207)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-3A.html'), skipping https://www.lyngsat.com/ChinaSat-3A.html ...
-Getting https://www.lyngsat.com/SiriusXM-10.html ... (211 of 207)
+Getting https://www.lyngsat.com/Hispasat-74W-1.html ... (211 of 207)
+Satellites(name=Hispasat 74W-1, position=-739, bands=Ku, transponders=3, feeds=0)
+Satellite(name=73.9W Hispasat 74W-1, position=-739, transponders=3, feeds=0, duplicates=0)
+Getting https://www.lyngsat.com/SiriusXM-10.html ... (212 of 207)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/SiriusXM-10.html'), skipping https://www.lyngsat.com/SiriusXM-10.html ...
 Lyngsat(regions=asia-europe-atlantic-america, urls=207, satellites=220)
