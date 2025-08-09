@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.2
-    File created on 2025-08-09T08:36:50
+    File created on 2025-08-09T15:51:42
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=206, satellites=221)
 -->
@@ -921,7 +921,7 @@
 		<transponder frequency="4055000" symbol_rate="30000000" polarization="3" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4095000" symbol_rate="30000000" polarization="2" fec_inner="2" system="1" modulation="2" />
 	</sat>
-	<sat name="45.1W C-band Intelsat 14" flags="1" position="-452">
+	<sat name="45.0W C-band Intelsat 14" flags="1" position="-451">
 		<transponder frequency="3719000" symbol_rate="3333000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3733000" symbol_rate="4812000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3744000" symbol_rate="1546000" polarization="0" fec_inner="0" system="0" modulation="1" />
@@ -959,7 +959,7 @@
 		<transponder frequency="4186000" symbol_rate="4960000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4192000" symbol_rate="2075000" polarization="0" fec_inner="3" system="0" modulation="1" />
 	</sat>
-	<sat name="45.1W Ku-band Intelsat 14" flags="1" position="-451">
+	<sat name="45.0W Ku-band Intelsat 14" flags="1" position="-450">
 		<transponder frequency="11605000" symbol_rate="990000" polarization="0" fec_inner="2" system="0" modulation="1" />
 		<transponder frequency="11735000" symbol_rate="7500000" polarization="1" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="11808000" symbol_rate="2200000" polarization="0" fec_inner="4" system="0" modulation="1" />
@@ -2536,7 +2536,7 @@
 	<sat name="42.5E C-band NigComSat 1R" flags="1" position="426">
 		<transponder frequency="3672000" symbol_rate="1055000" polarization="2" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="45.0E Azerspace 2/Intelsat 38" flags="1" position="450">
+	<sat name="45.1E Azerspace 2/Intelsat 38" flags="1" position="451">
 		<transponder frequency="11469000" symbol_rate="19000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11510000" symbol_rate="27690000" polarization="1" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="11555000" symbol_rate="29900000" polarization="1" fec_inner="2" system="1" modulation="2" />
