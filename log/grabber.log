@@ -141,19 +141,12 @@ Satellites(name=ChinaSat 10R, position=1105, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/BSAT-4B.html ... (49 of 206)
 Satellites(name=BSAT 4B, position=1100, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/BSAT-3C-JCSAT-110R-and-JCSAT-15-and-BSAT-4A.html ... (50 of 206)
-[FIXME] Transponder(11804 R DVB-S SR 28860 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(11843 R DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(11862 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(11977 L DVB-S SR 33756 auto 32APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
 [FIXME] Transponder(12034 R DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12149 R DVB-S SR 28860 2/3 8PSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12431 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12471 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12631 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12671 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-[FIXME] Transponder(12711 L DVB-S SR 33756 auto 16APSK MIS -1 Gold 0 T2MI -1 PID 4096) auto-correcting DVB-S to DVB-S2 because modulation is not QPSK
-Satellites(name=BSAT 3C/JCSAT 110R & JCSAT 15 & BSAT 4A, position=1100, bands=Ku, transponders=31, feeds=0)
-Satellite(name=110.0E BSAT 3C/JCSAT 110R & JCSAT 15 & BSAT 4A, position=1100, transponders=31, feeds=0, duplicates=0)
+Satellites(name=BSAT 3C/JCSAT 110R & JCSAT 15 & BSAT 4A, position=1100, bands=Ku, transponders=4, feeds=27)
+Satellite(name=110.0E BSAT 3C/JCSAT 110R & JCSAT 15 & BSAT 4A, position=1100, transponders=4, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/SES-7-9-and-Telkom-4.html ... (51 of 206)
 Satellites(name=SES 7/9 & Telkom 4, position=1081, bands=S C Ku, transponders=79, feeds=7)
 Satellite(name=108.1E S-band SES 7/9 & Telkom 4, position=1079, transponders=10, feeds=0, duplicates=0)
@@ -480,9 +473,7 @@ Getting https://www.lyngsat.com/SES-14.html ... (148 of 206)
 Satellites(name=SES 14, position=-475, bands=C, transponders=5, feeds=7)
 Satellite(name=47.5W C-band SES 14, position=-476, transponders=5, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-23.html ... (149 of 206)
-Satellites(name=Intelsat 23, position=-530, bands=C Ku, transponders=5, feeds=0)
-Satellite(name=53.0W C-band Intelsat 23, position=-531, transponders=3, feeds=0, duplicates=0)
-Satellite(name=53.0W Ku-band Intelsat 23, position=-530, transponders=2, feeds=0, duplicates=0)
+[WARN] Exception occured HTTPError('525 Server Error:  for url: https://www.lyngsat.com/Intelsat-23.html'), will retry https://www.lyngsat.com/Intelsat-23.html later...
 Getting https://www.lyngsat.com/Intelsat-34.html ... (150 of 206)
 Satellites(name=Intelsat 34, position=-555, bands=C, transponders=38, feeds=5)
 Satellite(name=55.5W C-band Intelsat 34, position=-556, transponders=38, feeds=0, duplicates=0)
@@ -492,9 +483,7 @@ Satellites(name=Intelsat 21, position=-580, bands=C Ku, transponders=42, feeds=1
 Satellite(name=58.0W C-band Intelsat 21, position=-581, transponders=26, feeds=0, duplicates=0)
 Satellite(name=58.0W Ku-band Intelsat 21, position=-580, transponders=16, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Amazonas-2-3-5.html ... (152 of 206)
-Satellites(name=Amazonas 2/3/5, position=-610, bands=C Ku, transponders=37, feeds=0)
-Satellite(name=61.0W C-band Amazonas 2/3/5, position=-611, transponders=13, feeds=0, duplicates=0)
-Satellite(name=61.0W Ku-band Amazonas 2/3/5, position=-610, transponders=24, feeds=0, duplicates=0)
+[WARN] Exception occured HTTPError('522 Server Error:  for url: https://www.lyngsat.com/Amazonas-2-3-5.html'), will retry https://www.lyngsat.com/Amazonas-2-3-5.html later...
 Getting https://www.lyngsat.com/Amazonas-Nexus.html ... (153 of 206)
 Satellites(name=Amazonas Nexus, position=-610, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/EchoStar-16.html ... (154 of 206)
@@ -881,6 +870,14 @@ Getting https://www.lyngsat.com/ChinaSat-4A.html ... (208 of 206)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-4A.html'), skipping https://www.lyngsat.com/ChinaSat-4A.html ...
 Getting https://www.lyngsat.com/ChinaSat-3A.html ... (209 of 206)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-3A.html'), skipping https://www.lyngsat.com/ChinaSat-3A.html ...
-Getting https://www.lyngsat.com/SiriusXM-10.html ... (210 of 206)
+Getting https://www.lyngsat.com/Intelsat-23.html ... (210 of 206)
+Satellites(name=Intelsat 23, position=-530, bands=C Ku, transponders=5, feeds=0)
+Satellite(name=53.0W C-band Intelsat 23, position=-531, transponders=3, feeds=0, duplicates=0)
+Satellite(name=53.0W Ku-band Intelsat 23, position=-530, transponders=2, feeds=0, duplicates=0)
+Getting https://www.lyngsat.com/Amazonas-2-3-5.html ... (211 of 206)
+Satellites(name=Amazonas 2/3/5, position=-610, bands=C Ku, transponders=37, feeds=0)
+Satellite(name=61.0W C-band Amazonas 2/3/5, position=-611, transponders=13, feeds=0, duplicates=0)
+Satellite(name=61.0W Ku-band Amazonas 2/3/5, position=-610, transponders=24, feeds=0, duplicates=0)
+Getting https://www.lyngsat.com/SiriusXM-10.html ... (212 of 206)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/SiriusXM-10.html'), skipping https://www.lyngsat.com/SiriusXM-10.html ...
 Lyngsat(regions=asia-europe-atlantic-america, urls=206, satellites=221)
