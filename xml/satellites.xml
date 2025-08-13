@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-08-12T08:36:59
+    File created on 2025-08-13T08:36:46
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=206, satellites=218)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=205, satellites=218)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -2491,7 +2491,6 @@
 		<transponder frequency="12209000" symbol_rate="10000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12213000" symbol_rate="5833000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12219000" symbol_rate="6500000" polarization="0" fec_inner="3" system="0" modulation="1" />
-		<transponder frequency="12228000" symbol_rate="8400000" polarization="1" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12245000" symbol_rate="27500000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="12265000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12298000" symbol_rate="4800000" polarization="1" fec_inner="4" system="0" modulation="1" />
@@ -2995,7 +2994,7 @@
 	</sat>
 	<sat name="76.5E C-band Apstar 7" flags="1" position="766">
 		<transponder frequency="3657000" symbol_rate="2917000" polarization="0" fec_inner="7" system="1" modulation="2" />
-		<transponder frequency="3735000" symbol_rate="4165000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="3730000" symbol_rate="4165000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3745000" symbol_rate="5000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3753000" symbol_rate="8330000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3780000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
@@ -3579,11 +3578,10 @@
 		<transponder frequency="3971000" symbol_rate="10000000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3980000" symbol_rate="33030000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4000000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1" />
-		<transponder frequency="4020000" symbol_rate="28800000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4030000" symbol_rate="10920000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4044000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4053000" symbol_rate="6000000" polarization="1" fec_inner="3" system="0" modulation="1" />
-		<transponder frequency="4067000" symbol_rate="9988000" polarization="0" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="4067000" symbol_rate="9980000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4072000" symbol_rate="15950000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4092000" symbol_rate="9990000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4100000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1" />
