@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-08-14T08:36:53
+    File created on 2025-08-15T08:36:50
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=205, satellites=218)
 -->
@@ -1356,9 +1356,9 @@
 		<transponder frequency="12536000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="1" pls_mode="1" pls_code="131070" />
 		<transponder frequency="12536000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="4" pls_mode="1" pls_code="131070" />
 		<transponder frequency="12536000" symbol_rate="35300000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="9" pls_mode="1" pls_code="131070" />
-		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="2" system="1" modulation="2" is_id="1" pls_mode="1" pls_code="131070" />
-		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="2" system="1" modulation="2" is_id="3" pls_mode="1" pls_code="131070" />
-		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="2" system="1" modulation="2" is_id="5" pls_mode="1" pls_code="131070" />
+		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="1" pls_mode="1" pls_code="131070" />
+		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="3" pls_mode="1" pls_code="131070" />
+		<transponder frequency="12564000" symbol_rate="35300000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="5" pls_mode="1" pls_code="131070" />
 		<transponder frequency="12585000" symbol_rate="35500000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="1" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12585000" symbol_rate="35500000" polarization="0" fec_inner="2" system="1" modulation="2" is_id="11" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12606000" symbol_rate="35300000" polarization="1" fec_inner="2" system="1" modulation="2" is_id="4" pls_mode="1" pls_code="131070" />
@@ -2050,7 +2050,6 @@
 		<transponder frequency="11046000" symbol_rate="27500000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11109000" symbol_rate="2500000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11112000" symbol_rate="1610000" polarization="1" fec_inner="4" system="1" modulation="2" />
-		<transponder frequency="11142000" symbol_rate="27500000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11180000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="16" pls_mode="1" pls_code="253312" />
 		<transponder frequency="11180000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="32" pls_mode="1" pls_code="253312" />
 		<transponder frequency="11180000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" is_id="48" pls_mode="1" pls_code="253312" />
