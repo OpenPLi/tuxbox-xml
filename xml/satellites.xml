@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-08-19T08:36:49
+    File created on 2025-08-20T08:36:32
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=205, satellites=218)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=203, satellites=218)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -2936,6 +2936,8 @@
 		<transponder frequency="4042000" symbol_rate="1666000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4045000" symbol_rate="17590000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="0" />
 		<transponder frequency="4045000" symbol_rate="17590000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="1" />
+		<transponder frequency="4064000" symbol_rate="17590000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="5" />
+		<transponder frequency="4064000" symbol_rate="17590000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="42" />
 		<transponder frequency="4093000" symbol_rate="17590000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="9" />
 		<transponder frequency="4120000" symbol_rate="9583000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4123000" symbol_rate="15980000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="3" />
