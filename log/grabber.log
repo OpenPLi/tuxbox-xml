@@ -19,9 +19,9 @@ Satellite(name=169.0E C-band Horizons 3e, position=1691, transponders=1, feeds=0
 Getting https://www.lyngsat.com/ChinaSat-3B.html ... (5 of 203)
 [WARN] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-3B.html'), will retry https://www.lyngsat.com/ChinaSat-3B.html later...
 Getting https://www.lyngsat.com/Intelsat-19.html ... (6 of 203)
-Satellites(name=Intelsat 19, position=1660, bands=C Ku, transponders=25, feeds=3)
+Satellites(name=Intelsat 19, position=1660, bands=C Ku, transponders=26, feeds=3)
 Satellite(name=166.0E Ku-band Intelsat 19, position=1660, transponders=9, feeds=0, duplicates=0)
-Satellite(name=166.0E C-band Intelsat 19, position=1661, transponders=16, feeds=0, duplicates=0)
+Satellite(name=166.0E C-band Intelsat 19, position=1661, transponders=17, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/ChinaSat-19.html ... (7 of 203)
 Satellites(name=ChinaSat 19, position=1630, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/Superbird-B3.html ... (8 of 203)
