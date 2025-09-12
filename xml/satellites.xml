@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-09-11T08:35:52
+    File created on 2025-09-12T08:35:51
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=218)
 -->
@@ -1328,7 +1328,6 @@
 		<transponder frequency="12360000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12399000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12418000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="12450000" symbol_rate="11000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 	</sat>
 	<sat name="5.0W Eutelsat 5 West B" flags="1" position="-50">
 		<transponder frequency="10972000" symbol_rate="29950000" polarization="1" fec_inner="2" system="1" modulation="2" />
@@ -2500,8 +2499,8 @@
 		<transponder frequency="12729000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 	</sat>
 	<sat name="42.0E Ka-band Türksat 3A/4A/5B/6A" flags="1" position="422">
-		<transponder frequency="13505000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="4" />
-		<transponder frequency="13545000" symbol_rate="34280000" polarization="0" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="13505000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="4" />
+		<transponder frequency="13545000" symbol_rate="34280000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="18634000" symbol_rate="22500000" polarization="2" fec_inner="2" system="1" modulation="2" />
 	</sat>
 	<sat name="42.5E Ku-band NigComSat 1R" flags="1" position="425">
