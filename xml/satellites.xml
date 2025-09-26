@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-09-25T08:35:52
+    File created on 2025-09-26T08:35:48
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=200, satellites=218)
 -->
@@ -3336,10 +3336,12 @@
 		<transponder frequency="3993000" symbol_rate="2900000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="3997000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4000000" symbol_rate="2900000" polarization="0" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="4009000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4029000" symbol_rate="2900000" polarization="0" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="4034000" symbol_rate="4560000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4039000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4045000" symbol_rate="6230000" polarization="0" fec_inner="3" system="0" modulation="1" />
-		<transponder frequency="4060000" symbol_rate="4250000" polarization="0" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="4052000" symbol_rate="4250000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4074000" symbol_rate="12500000" polarization="1" fec_inner="6" system="1" modulation="2" />
 		<transponder frequency="4090000" symbol_rate="6250000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4098000" symbol_rate="6250000" polarization="0" fec_inner="3" system="0" modulation="1" />
@@ -3479,8 +3481,8 @@
 		<transponder frequency="12591000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12651000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12676000" symbol_rate="5028000" polarization="0" fec_inner="1" system="0" modulation="1" />
-		<transponder frequency="12711000" symbol_rate="45000000" polarization="0" fec_inner="2" system="0" modulation="1" />
 		<transponder frequency="12711000" symbol_rate="45000000" polarization="0" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="12711000" symbol_rate="45000000" polarization="0" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12711000" symbol_rate="43700000" polarization="1" fec_inner="3" system="1" modulation="1" />
 	</sat>
 	<sat name="108.1E C-band SES 7/9 &amp; Merah Putih" flags="1" position="1082">
@@ -3768,9 +3770,8 @@
 		<transponder frequency="11088000" symbol_rate="28800000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11262000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11472000" symbol_rate="23200000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="11549000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="11589000" symbol_rate="28800000" polarization="0" fec_inner="4" system="0" modulation="1" />
-		<transponder frequency="11629000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="11549000" symbol_rate="15000000" polarization="0" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="11589000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="12257000" symbol_rate="3096000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="12323000" symbol_rate="13330000" polarization="1" fec_inner="3" system="1" modulation="5" />
 		<transponder frequency="12746000" symbol_rate="3096000" polarization="0" fec_inner="3" system="0" modulation="1" />
