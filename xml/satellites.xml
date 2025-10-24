@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-10-23T08:35:30
+    File created on 2025-10-24T08:35:34
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=199, satellites=217)
 -->
@@ -1881,6 +1881,8 @@
 		<transponder frequency="3846000" symbol_rate="6730000" polarization="3" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3858000" symbol_rate="2083000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3922000" symbol_rate="1100000" polarization="0" fec_inner="4" system="1" modulation="1" />
+		<transponder frequency="3932000" symbol_rate="1000000" polarization="0" fec_inner="6" system="1" modulation="2" />
+		<transponder frequency="4119000" symbol_rate="1100000" polarization="0" fec_inner="4" system="1" modulation="1" />
 	</sat>
 	<sat name="19.2E Astra 1KR/1M/1N/1P" flags="1" position="192">
 		<transponder frequency="10758000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" />
@@ -3117,7 +3119,7 @@
 		<transponder frequency="3949000" symbol_rate="3672000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3954000" symbol_rate="11572000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3958000" symbol_rate="9500000" polarization="0" fec_inner="4" system="1" modulation="2" />
-		<transponder frequency="3968000" symbol_rate="10000000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="3968000" symbol_rate="10000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3976000" symbol_rate="3600000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3981000" symbol_rate="4216000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4005000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
