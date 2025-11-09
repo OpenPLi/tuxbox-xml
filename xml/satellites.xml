@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.3
-    File created on 2025-11-08T08:34:46
+    File created on 2025-11-09T08:34:53
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=195, satellites=217)
 -->
@@ -3353,8 +3353,8 @@
 	</sat>
 	<sat name="97.3E G-Sat 9" flags="1" position="973">
 		<transponder frequency="11300000" symbol_rate="29500000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="11327000" symbol_rate="9000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11340000" symbol_rate="29500000" polarization="0" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="11432000" symbol_rate="7100000" polarization="1" fec_inner="3" system="1" modulation="1" />
 	</sat>
 	<sat name="98.0E C-band ChinaSat 11" flags="1" position="981">
 		<transponder frequency="3975000" symbol_rate="34284000" polarization="1" fec_inner="4" system="1" modulation="2" />
