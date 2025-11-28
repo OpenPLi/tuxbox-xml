@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.4
-    File created on 2025-11-27T08:35:12
+    File created on 2025-11-28T08:35:11
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=196, satellites=217)
 -->
@@ -3709,6 +3709,7 @@
 		<transponder frequency="4160000" symbol_rate="9578000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4171000" symbol_rate="15950000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4172000" symbol_rate="9900000" polarization="0" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="4183000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="128.0E JCSAT 3A" flags="1" position="1280">
 		<transponder frequency="12523000" symbol_rate="23303000" polarization="0" fec_inner="7" system="1" modulation="2" />
@@ -3849,9 +3850,7 @@
 		<transponder frequency="3855000" symbol_rate="13330000" polarization="1" fec_inner="7" system="1" modulation="2" />
 	</sat>
 	<sat name="154.0E JCSAT 2B" flags="1" position="1540">
-		<transponder frequency="12348000" symbol_rate="3096000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="12355000" symbol_rate="3761000" polarization="1" fec_inner="0" system="1" modulation="1" />
-		<transponder frequency="12505000" symbol_rate="2856000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12564000" symbol_rate="3096000" polarization="0" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="156.0E Optus D3/10" flags="1" position="1560">
