@@ -90,7 +90,7 @@ Satellite(name=130.5E C-band ChinaSat 6C, position=1306, transponders=2, feeds=0
 Getting https://www.lyngsat.com/ChinaSat-2D.html ... (31 of 196)
 Satellites(name=ChinaSat 2D, position=1300, bands=, transponders=0, feeds=0)
 Getting https://www.lyngsat.com/LaoSat-1.html ... (32 of 196)
-Satellites(name=LaoSat 1, position=1285, bands=C Ku, transponders=20, feeds=1)
+Satellites(name=LaoSat 1, position=1285, bands=C Ku, transponders=20, feeds=2)
 Satellite(name=128.5E Ku-band LaoSat 1, position=1285, transponders=7, feeds=0, duplicates=0)
 Satellite(name=128.5E C-band LaoSat 1, position=1286, transponders=13, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/JCSAT-3A.html ... (33 of 196)
