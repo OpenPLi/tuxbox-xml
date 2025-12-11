@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.4
-    File created on 2025-12-10T08:35:15
+    File created on 2025-12-11T08:35:11
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=196, satellites=218)
 -->
@@ -2765,6 +2765,7 @@
 		<transponder frequency="4066000" symbol_rate="5140000" polarization="3" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4104000" symbol_rate="5574000" polarization="2" fec_inner="4" system="1" modulation="2" t2mi_plp_id="0" />
 		<transponder frequency="4110000" symbol_rate="2600000" polarization="2" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="4169000" symbol_rate="1200000" polarization="2" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="65.0E Amos 4" flags="1" position="650">
 		<transponder frequency="10860000" symbol_rate="45000000" polarization="1" fec_inner="1" system="1" modulation="1" />
@@ -3747,7 +3748,6 @@
 		<transponder frequency="3656000" symbol_rate="2300000" polarization="0" fec_inner="8" system="1" modulation="1" />
 	</sat>
 	<sat name="130.5E C-band ChinaSat 6C" flags="1" position="1306">
-		<transponder frequency="4022000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4067000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="131.9E Vinasat 1/2" flags="1" position="1319">
