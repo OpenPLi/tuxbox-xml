@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.4
-    File created on 2026-01-27T08:34:55
+    File created on 2026-01-28T08:34:52
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=195, satellites=218)
 -->
@@ -835,6 +835,7 @@
 		<transponder frequency="3962000" symbol_rate="3333000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3967000" symbol_rate="5000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3985000" symbol_rate="15570000" polarization="1" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="3989000" symbol_rate="5000000" polarization="0" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="4015000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4015000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4042000" symbol_rate="7500000" polarization="1" fec_inner="3" system="1" modulation="2" />
@@ -3604,7 +3605,6 @@
 		<transponder frequency="4140000" symbol_rate="29500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="122.0E Ku-band AsiaSat 9" flags="1" position="1220">
-		<transponder frequency="11120000" symbol_rate="23000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11550000" symbol_rate="45000000" polarization="1" fec_inner="4" system="1" modulation="1" />
 		<transponder frequency="12336000" symbol_rate="13000000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="12415000" symbol_rate="40000000" polarization="1" fec_inner="5" system="0" modulation="1" />
