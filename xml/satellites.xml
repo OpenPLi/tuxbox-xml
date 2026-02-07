@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.4
-    File created on 2026-02-06T08:35:19
+    File created on 2026-02-07T08:35:18
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=218)
 -->
@@ -3627,6 +3627,7 @@
 		<transponder frequency="4180000" symbol_rate="30830000" polarization="1" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="124.0E JCSAT 4B" flags="1" position="1240">
+		<transponder frequency="11565000" symbol_rate="22415000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="11595000" symbol_rate="22415000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="11625000" symbol_rate="22415000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="12282000" symbol_rate="15000000" polarization="0" fec_inner="3" system="1" modulation="2" />
