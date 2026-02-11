@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.4
-    File created on 2026-02-10T08:35:19
+    File created on 2026-02-11T08:35:18
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=218)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=217)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -1990,7 +1990,6 @@
 		<transponder frequency="11671000" symbol_rate="2917000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11678000" symbol_rate="2850000" polarization="1" fec_inner="5" system="0" modulation="1" />
 		<transponder frequency="11696000" symbol_rate="1480000" polarization="1" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="12637000" symbol_rate="26670000" polarization="0" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="23.5E Astra 3B/3C" flags="1" position="235">
 		<transponder frequency="11739000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2" />
@@ -2323,7 +2322,7 @@
 		<transponder frequency="4104000" symbol_rate="1600000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4125000" symbol_rate="16100000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4140000" symbol_rate="8000000" polarization="0" fec_inner="7" system="1" modulation="2" />
-		<transponder frequency="4147000" symbol_rate="2960000" polarization="0" fec_inner="7" system="1" modulation="2" />
+		<transponder frequency="4147000" symbol_rate="3200000" polarization="0" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="4150000" symbol_rate="1600000" polarization="0" fec_inner="4" system="1" modulation="2" />
 	</sat>
 	<sat name="39.0E Hellas Sat 3/4" flags="1" position="390">
@@ -2751,9 +2750,15 @@
 		<transponder frequency="11555000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="62.0E C-band Intelsat 39" flags="1" position="621">
+		<transponder frequency="3725000" symbol_rate="30810000" polarization="0" fec_inner="3" system="1" modulation="5" />
+		<transponder frequency="3725000" symbol_rate="30810000" polarization="1" fec_inner="6" system="1" modulation="4" />
+		<transponder frequency="3765000" symbol_rate="31850000" polarization="0" fec_inner="6" system="1" modulation="4" />
+		<transponder frequency="3765000" symbol_rate="30810000" polarization="1" fec_inner="6" system="1" modulation="4" />
 		<transponder frequency="3871000" symbol_rate="2150000" polarization="2" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3911000" symbol_rate="5757000" polarization="3" fec_inner="6" system="1" modulation="2" />
 		<transponder frequency="3917000" symbol_rate="5000000" polarization="3" fec_inner="3" system="0" modulation="1" />
+		<transponder frequency="3925000" symbol_rate="30810000" polarization="0" fec_inner="4" system="1" modulation="5" />
+		<transponder frequency="3925000" symbol_rate="30810000" polarization="1" fec_inner="6" system="1" modulation="4" />
 		<transponder frequency="3940000" symbol_rate="2083000" polarization="2" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4061000" symbol_rate="12500000" polarization="2" fec_inner="6" system="1" modulation="2" />
 		<transponder frequency="4066000" symbol_rate="5140000" polarization="3" fec_inner="4" system="1" modulation="2" />
@@ -2913,9 +2918,6 @@
 		<transponder frequency="4176000" symbol_rate="15980000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="4" />
 		<transponder frequency="4176000" symbol_rate="15980000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="6" />
 		<transponder frequency="4176000" symbol_rate="15980000" polarization="3" fec_inner="4" system="1" modulation="2" t2mi_plp_id="15" />
-	</sat>
-	<sat name="74.0E C-band G-Sat 18" flags="1" position="741">
-		<transponder frequency="3777000" symbol_rate="7000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="75.0E Ku-band ABS 2/2A" flags="1" position="750">
 		<transponder frequency="10985000" symbol_rate="35007000" polarization="0" fec_inner="3" system="1" modulation="2" />
