@@ -451,7 +451,8 @@ Satellites(name=Intelsat 14, position=-450, bands=C Ku, transponders=26, feeds=9
 Satellite(name=45.0W C-band Intelsat 14, position=-451, transponders=23, feeds=0, duplicates=0)
 Satellite(name=45.0W Ku-band Intelsat 14, position=-450, transponders=3, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/SES-14.html ... (145 of 196)
-[WARN] Exception occured HTTPError('522 Server Error: <none> for url: https://www.lyngsat.com/SES-14.html'), will retry https://www.lyngsat.com/SES-14.html later...
+Satellites(name=SES 14, position=-475, bands=C, transponders=6, feeds=6)
+Satellite(name=47.5W C-band SES 14, position=-476, transponders=6, feeds=0, duplicates=0)
 Getting https://www.lyngsat.com/Intelsat-23.html ... (146 of 196)
 Satellites(name=Intelsat 23, position=-530, bands=Ku, transponders=2, feeds=0)
 Satellite(name=53.0W Intelsat 23, position=-530, transponders=2, feeds=0, duplicates=0)
@@ -834,9 +835,6 @@ Getting https://www.lyngsat.com/ChinaSat-3B.html ... (197 of 196)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-3B.html'), skipping https://www.lyngsat.com/ChinaSat-3B.html ...
 Getting https://www.lyngsat.com/ChinaSat-3A.html ... (198 of 196)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/ChinaSat-3A.html'), skipping https://www.lyngsat.com/ChinaSat-3A.html ...
-Getting https://www.lyngsat.com/SES-14.html ... (199 of 196)
-Satellites(name=SES 14, position=-475, bands=C, transponders=6, feeds=6)
-Satellite(name=47.5W C-band SES 14, position=-476, transponders=6, feeds=0, duplicates=0)
-Getting https://www.lyngsat.com/EchoStar-25.html ... (200 of 196)
+Getting https://www.lyngsat.com/EchoStar-25.html ... (199 of 196)
 [ERR] Exception occured HTTPError('404 Client Error: Not Found for url: https://www.lyngsat.com/EchoStar-25.html'), skipping https://www.lyngsat.com/EchoStar-25.html ...
 Lyngsat(regions=asia-europe-atlantic-america, urls=196, satellites=213)
