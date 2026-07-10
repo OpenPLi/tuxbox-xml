@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-07-09T08:35:34
+    File created on 2026-07-10T08:35:32
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=198, satellites=212)
 -->
@@ -874,7 +874,6 @@
 		<transponder frequency="4095000" symbol_rate="30000000" polarization="2" fec_inner="2" system="1" modulation="2" />
 	</sat>
 	<sat name="45.0W C-band Intelsat 14" flags="1" position="-451">
-		<transponder frequency="3745000" symbol_rate="3750000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3752000" symbol_rate="4500000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3761000" symbol_rate="8321000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3768000" symbol_rate="1832000" polarization="0" fec_inner="2" system="1" modulation="2" />
@@ -1027,6 +1026,7 @@
 	</sat>
 	<sat name="34.5W C-band Intelsat 35e" flags="1" position="-346">
 		<transponder frequency="3843000" symbol_rate="4811000" polarization="3" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="3865000" symbol_rate="37510000" polarization="3" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4126000" symbol_rate="11000000" polarization="2" fec_inner="1" system="1" modulation="1" />
 		<transponder frequency="4132000" symbol_rate="30000000" polarization="3" fec_inner="3" system="1" modulation="1" />
 	</sat>
@@ -1906,6 +1906,7 @@
 		<transponder frequency="3934000" symbol_rate="27500000" polarization="2" fec_inner="5" system="0" modulation="1" />
 		<transponder frequency="4069000" symbol_rate="3800000" polarization="3" fec_inner="1" system="1" modulation="1" />
 		<transponder frequency="4193000" symbol_rate="1262000" polarization="2" fec_inner="2" system="1" modulation="2" />
+		<transponder frequency="4194000" symbol_rate="400000" polarization="2" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="21.5E Eutelsat 21B" flags="1" position="215">
 		<transponder frequency="10723000" symbol_rate="32115000" polarization="1" fec_inner="1" system="1" modulation="1" />
@@ -2389,6 +2390,7 @@
 		<transponder frequency="12009000" symbol_rate="4444000" polarization="1" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="12015000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12034000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
+		<transponder frequency="12054000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12073000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12083000" symbol_rate="13750000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12095000" symbol_rate="4800000" polarization="0" fec_inner="4" system="0" modulation="1" />
