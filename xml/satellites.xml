@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-07-14T08:35:36
+    File created on 2026-07-15T08:35:33
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=198, satellites=212)
 -->
@@ -1621,6 +1621,7 @@
 		<transponder frequency="12736000" symbol_rate="4000000" polarization="1" fec_inner="9" system="1" modulation="2" is_id="171" />
 	</sat>
 	<sat name="10.0E C-band Eutelsat 10B" flags="1" position="101">
+		<transponder frequency="3806000" symbol_rate="4042000" polarization="3" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3836000" symbol_rate="1650000" polarization="3" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="3861000" symbol_rate="4042000" polarization="3" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="3870000" symbol_rate="3333000" polarization="3" fec_inner="2" system="1" modulation="2" />
