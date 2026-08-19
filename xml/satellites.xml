@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-08-18T08:35:32
+    File created on 2026-08-19T08:35:38
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=198, satellites=209)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=198, satellites=208)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -1369,6 +1369,7 @@
 		<transponder frequency="12111000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12130000" symbol_rate="28000000" polarization="0" fec_inner="5" system="0" modulation="1" />
 		<transponder frequency="12149000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="12169000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12188000" symbol_rate="28000000" polarization="1" fec_inner="5" system="0" modulation="1" />
 		<transponder frequency="12226000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12245000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
@@ -2098,6 +2099,7 @@
 		<transponder frequency="11434000" symbol_rate="4000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11678000" symbol_rate="2800000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11679000" symbol_rate="2850000" polarization="1" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="12679000" symbol_rate="14400000" polarization="0" fec_inner="7" system="1" modulation="2" t2mi_plp_id="0" />
 		<transponder frequency="12734000" symbol_rate="1666000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="31.0E Türksat 5A" flags="1" position="310">
@@ -2368,6 +2370,7 @@
 		<transponder frequency="12458000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12521000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12554000" symbol_rate="7000000" polarization="1" fec_inner="2" system="1" modulation="1" />
+		<transponder frequency="12601000" symbol_rate="27500000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12685000" symbol_rate="27500000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12729000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 	</sat>
@@ -2554,6 +2557,7 @@
 		<transponder frequency="12640000" symbol_rate="2200000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12679000" symbol_rate="1665000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="12683000" symbol_rate="1100000" polarization="1" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="12708000" symbol_rate="5510000" polarization="1" fec_inner="3" system="1" modulation="1" />
 	</sat>
 	<sat name="54.9E G-Sat 16 &amp; Yamal 402" flags="1" position="549">
 		<transponder frequency="10845000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2" />
@@ -3579,9 +3583,6 @@
 		<transponder frequency="3651000" symbol_rate="12000000" polarization="1" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3653000" symbol_rate="2400000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="3656000" symbol_rate="2300000" polarization="0" fec_inner="8" system="1" modulation="1" />
-	</sat>
-	<sat name="130.5E C-band ChinaSat 6C" flags="1" position="1306">
-		<transponder frequency="4067000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="131.9E Vinasat 1/2" flags="1" position="1319">
 		<transponder frequency="10968000" symbol_rate="28800000" polarization="0" fec_inner="3" system="1" modulation="2" />
