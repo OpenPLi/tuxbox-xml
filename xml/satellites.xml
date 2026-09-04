@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-09-03T08:35:07
+    File created on 2026-09-04T08:35:07
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=208)
 -->
@@ -2089,6 +2089,7 @@
 		<transponder frequency="11434000" symbol_rate="4000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11678000" symbol_rate="2800000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11679000" symbol_rate="2850000" polarization="1" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="12679000" symbol_rate="14400000" polarization="0" fec_inner="7" system="1" modulation="2" t2mi_plp_id="0" />
 		<transponder frequency="12729000" symbol_rate="1666000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
 	<sat name="31.0E Türksat 5A" flags="1" position="310">
