@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-09-18T08:34:48
+    File created on 2026-09-19T08:34:14
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=197, satellites=208)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=194, satellites=208)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -11,6 +11,7 @@
 		<transponder frequency="4192000" symbol_rate="2644000" polarization="3" fec_inner="3" system="1" modulation="1" />
 	</sat>
 	<sat name="139.0W C-band SES 22" flags="1" position="-1391">
+		<transponder frequency="4048000" symbol_rate="500000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4056000" symbol_rate="13250000" polarization="0" fec_inner="3" system="0" modulation="1" />
 	</sat>
 	<sat name="135.0W C-band SES 19" flags="1" position="-1351">
