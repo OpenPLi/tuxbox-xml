@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-09-27T08:34:18
+    File created on 2026-09-28T08:34:32
     BeautifulSoup Parser html5lib
-    Lyngsat(regions=asia-europe-atlantic-america, urls=194, satellites=210)
+    Lyngsat(regions=asia-europe-atlantic-america, urls=195, satellites=210)
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -3431,14 +3431,14 @@
 		<transponder frequency="12316000" symbol_rate="7500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="12560000" symbol_rate="10000000" polarization="0" fec_inner="7" system="1" modulation="2" />
 	</sat>
-	<sat name="119.3E Ku-band Thaicom 4 &amp; Bangladesh 1" flags="1" position="1193">
+	<sat name="119.1E Ku-band Bangladesh 1" flags="1" position="1191">
 		<transponder frequency="10805000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10845000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="10885000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="10885000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11725000" symbol_rate="17500000" polarization="1" fec_inner="3" system="1" modulation="1" />
 	</sat>
-	<sat name="119.3E C-band Thaicom 4 &amp; Bangladesh 1" flags="1" position="1194">
+	<sat name="119.1E C-band Bangladesh 1" flags="1" position="1192">
 		<transponder frequency="4520000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="4525000" symbol_rate="2400000" polarization="1" fec_inner="10" system="1" modulation="2" />
 		<transponder frequency="4532000" symbol_rate="6670000" polarization="1" fec_inner="2" system="1" modulation="2" />
