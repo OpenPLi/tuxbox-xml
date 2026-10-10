@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     lyngsat grabber 1.0.5
-    File created on 2026-10-09T08:33:39
+    File created on 2026-10-10T08:33:36
     BeautifulSoup Parser html5lib
     Lyngsat(regions=asia-europe-atlantic-america, urls=190, satellites=210)
 -->
@@ -265,10 +265,13 @@
 		<transponder frequency="4060000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4080000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4100000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="4118000" symbol_rate="1760000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4122000" symbol_rate="2500000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4140000" symbol_rate="34286000" polarization="0" fec_inner="2" system="1" modulation="4" />
+		<transponder frequency="4152000" symbol_rate="325000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4162000" symbol_rate="4166000" polarization="1" fec_inner="4" system="1" modulation="2" />
-		<transponder frequency="4171000" symbol_rate="15000000" polarization="0" fec_inner="4" system="1" modulation="2" />
+		<transponder frequency="4171000" symbol_rate="15000000" polarization="0" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="4176000" symbol_rate="1774000" polarization="1" fec_inner="2" system="0" modulation="1" />
 	</sat>
 	<sat name="105.0W Ku-band EchoStar 105/SES 11" flags="1" position="-1050">
 		<transponder frequency="11924000" symbol_rate="3676000" polarization="0" fec_inner="8" system="1" modulation="1" />
@@ -3165,6 +3168,7 @@
 		<transponder frequency="4000000" symbol_rate="2900000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4005000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4009000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
+		<transponder frequency="4013000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4029000" symbol_rate="2900000" polarization="0" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="4034000" symbol_rate="4560000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="4039000" symbol_rate="2900000" polarization="0" fec_inner="3" system="1" modulation="2" />
@@ -3251,13 +3255,12 @@
 		<transponder frequency="3709000" symbol_rate="15000000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3734000" symbol_rate="6500000" polarization="0" fec_inner="2" system="1" modulation="1" />
 		<transponder frequency="3760000" symbol_rate="26000000" polarization="0" fec_inner="5" system="0" modulation="1" />
-		<transponder frequency="3800000" symbol_rate="11666000" polarization="0" fec_inner="7" system="1" modulation="2" />
+		<transponder frequency="3810000" symbol_rate="12500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="3880000" symbol_rate="29720000" polarization="0" fec_inner="7" system="1" modulation="2" />
 		<transponder frequency="3960000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4080000" symbol_rate="29720000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4100000" symbol_rate="29720000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="4120000" symbol_rate="27500000" polarization="0" fec_inner="5" system="0" modulation="1" />
-		<transponder frequency="4167000" symbol_rate="11666000" polarization="0" fec_inner="7" system="1" modulation="2" />
 	</sat>
 	<sat name="108.1E S-band SES 7/9 &amp; Merah Putih" flags="1" position="1079">
 		<transponder frequency="2535000" symbol_rate="22500000" polarization="0" fec_inner="3" system="1" modulation="2" />
