@@ -6072,7 +6072,7 @@
 		<transponder frequency="562000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	
+
 	<cable name="Vodafone (old)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated TDCroPower 20250215 -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -6105,7 +6105,7 @@
 		<transponder frequency="394000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 	</cable>
-	
+
 	<cable name="Vodafone (KD)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated mike99 20260409 -->
 		<transponder frequency="362000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -6132,7 +6132,7 @@
 		<transponder frequency="546000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="554000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="562000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
 
 	<cable name="Kabelcom Rheinhessen" satfeed="true" flags="9" countrycode="DEU">
@@ -6525,10 +6525,6 @@
 	</cable>
 
 	<cable name="PYUR" satfeed="true" flags="9" countrycode="DEU">
-		<transponder frequency="262000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="270000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="278000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="294000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="306000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -6554,9 +6550,9 @@
 		<transponder frequency="482000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="490000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="498000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="506000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="514000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="530000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="538000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="546000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="554000" symbol_rate="6900000" fec_inner="9" modulation="5" />
