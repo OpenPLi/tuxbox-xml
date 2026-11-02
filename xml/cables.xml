@@ -5748,7 +5748,7 @@
 	</cable>
 
 	<cable name="Antennengemeinschaft Marbach" satfeed="true" flags="9" countrycode="DEU">
-		<!-- last updated by rosch78 20250125 -->
+		<!-- last updated by rosch78 20261025 -->
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="138000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="146000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -5790,7 +5790,6 @@
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="466000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="474000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 	</cable>
 
 	<cable name="Antennentechnik Weser-Ems" satfeed="true" flags="9" countrycode="DEU">
